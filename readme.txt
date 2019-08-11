@@ -1,1 +1,0 @@
-This is about web_crawlers using selenium as the major library. Please note that to successfully run the codes, you should first install a chromeDriver, otherwise it won't work. All sub directory contains the code, the requirements and the final data crawled.
