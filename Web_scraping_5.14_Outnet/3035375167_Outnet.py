@@ -15,12 +15,11 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 #%%
-#if you set the range to be 2000, then the csv/dataframe will finally have 2000 rows
 df = pd.DataFrame(index=range(1000),
                   columns=['Brand Name', 'Discounted Price', 'Original Price', 
                            'Price Change'])
 
-my_path = r"/Users/KHH/Desktop/ChromeDriver_for_web_scrapping/chromedriver"
+my_path = r"/Users/hiuhongkwan/Documents/Developer_Tools/Chrome_Driver/chromedriver"
 browser = webdriver.Chrome(executable_path=my_path)
 browser.maximize_window()
 
@@ -39,8 +38,8 @@ for cnt in range(8):
         ##please do not scoll the page when running this program!!
         #otherwise the click will not perform
         next_page_button_xpath = "//div[@class='right-tools']/div[1]/div[1]/div[2]/nav/ul[1]/li[@class='nextPage']"
-        button = WebDriverWait(browser, 3).until(EC.presence_of_element_located((By.XPATH,next_page_button_xpath)))
-        button.click()
+        next_button = WebDriverWait(browser, 3).until(EC.presence_of_element_located((By.XPATH,next_page_button_xpath)))
+        next_button.click()
         time.sleep(10)
     for count in range(1, len(browser.find_elements_by_xpath(product_list_xpath))+1):
         Brand_name_xpath = "//ul[@class='sr-product-list']/li["+str(count)+"]"+"/div[@class='wrapper']/a/div[@class='description product-details']/span[1]"

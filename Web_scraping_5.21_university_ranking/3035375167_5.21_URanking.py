@@ -22,7 +22,7 @@ df = pd.DataFrame(index=range(2000),
 
 #%% 
 ## launch the Chrome browser, please change directory to the location of your Chromedriver exe file and save that as my_path
-my_path = r"/Users/KHH/Desktop/ChromeDriver_for_web_scrapping/chromedriver"
+my_path = r"/Users/hiuhongkwan/Documents/Developer_Tools/Chrome_Driver/chromedriver"
 browser = webdriver.Chrome(executable_path=my_path)
 browser.maximize_window()
 
@@ -34,33 +34,21 @@ url_form = "https://www.usnews.com/education/best-global-universities/rankings?p
 #here to select how many pages you want to scrap, if set 11, then only 10 pages be scrapped
 #for this project, since we have to scrap 1000 university, we should set it to 101
 #each page in USNews contains 10 university
-page_number = []
-for i in range(101):
-    if (i == 0):
-        i+=1;
-    elif(i==1):
-        continue;
-    page_number.append(i)
-    
+page_number = [no for no in range(1,101)]
+
 university = []
 ranking = []
 country = []
 source = []
  
 for i, page_no in enumerate(page_number):
-    ## navigate to income statement quarterly page of each symbol  
     url = url_form.format(page_no)
     browser.get(url)
     for count in range(10):
         count2 = count + 1;
-        #xpath allows us to locate elements of interest inside html code. In this case, we want to scrape page titles
-        #find all h1 tags (headings) in the page containing text 'Company Financials'. Results are saved in a list 'company'
-        #10 seconds are given to identify elements that satisfy the previous condition. If elements are not found, nan is appended to the list
         university_xpath = "//div[@id='resultsMain']/div[1]/div["+str(count2)+"]"+"/div[@class='block unwrap']/h2[@class='h-taut']/a"
         ranking_xpath = "//div[@id='resultsMain']/div[1]/div["+str(count2)+"]"+"/div[2]/span[contains(text(), '#')]"
         country_xpath = "//div[@id='resultsMain']/div[1]/div["+str(count2)+"]"+"/div[@class='block unwrap']/div[@class='t-taut']/span[1]"
-        #"//" this is to locate the tag name, //a = <a></a>, if you have multiples h1, we only
-        #locate the tag<h1> with the string "Company Financials"
         try:
             university.append(WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.XPATH, university_xpath))).text)
             ranking.append(WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.XPATH, ranking_xpath))).text)

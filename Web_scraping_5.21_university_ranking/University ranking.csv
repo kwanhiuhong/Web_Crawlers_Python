@@ -1,841 +1,2870 @@
-University_name	Ranking	Country	SourceHarvard University	#1	United States	USNEWSMassachusetts Institute of Technology	#2	United States	USNEWSStanford University	#3	United States	USNEWSUniversity of California--Berkeley	#4	United States	USNEWSUniversity of Oxford	#5	United Kingdom	USNEWSCalifornia Institute of Technology	#6	United States	USNEWSUniversity of Cambridge	#7	United Kingdom	USNEWSColumbia University	#8	United States	USNEWSPrinceton University	#9	United States	USNEWSJohns Hopkins University	"#10
-Tie"	United States	USNEWSUniversity of Washington	"#10
-Tie"	United States	USNEWSYale University	"#10
-Tie"	United States	USNEWSUniversity of California--Los Angeles	#13	United States	USNEWSUniversity of Chicago	#14	United States	USNEWSUniversity of California--San Francisco	#15	United States	USNEWSUniversity of California--San Diego	#16	United States	USNEWSImperial College London	"#17
-Tie"	United Kingdom	USNEWSUniversity of Michigan--Ann Arbor	"#17
-Tie"	United States	USNEWSUniversity of Pennsylvania	#19	United States	USNEWSUniversity of Toronto	#20	Canada	USNEWSDuke University	#21	United States	USNEWSUniversity College London	#22	United Kingdom	USNEWSCornell University	#23	United States	USNEWSNorthwestern University	#24	United States	USNEWSSwiss Federal Institute of Technology Zurich	#25	Switzerland	USNEWSUniversity of Melbourne	#26	Australia	USNEWSUniversity of British Columbia	#27	Canada	USNEWSNew York University	"#28
-Tie"	United States	USNEWSUniversity of California--Santa Barbara	"#28
-Tie"	United States	USNEWSUniversity of Edinburgh	#30	United Kingdom	USNEWSUniversity of Wisconsin--Madison	#31	United States	USNEWSUniversity of Texas--Austin	"#32
-Tie"	United States	USNEWSWashington University in St. Louis	"#32
-Tie"	United States	USNEWSUniversity of North Carolina--Chapel Hill	"#34
-Tie"	United States	USNEWSUniversity of Sydney	"#34
-Tie"	Australia	USNEWSÉcole Polytechnique Federale of Lausanne	#36	Switzerland	USNEWSUniversity of Copenhagen	#37	Denmark	USNEWSPierre and Marie Curie University	#38	France	USNEWSBoston University	#39	United States	USNEWSUniversity of Munich	#40	Germany	USNEWSKing's College London	#41	United Kingdom	USNEWSUniversity of Minnesota--Twin Cities	#42	United States	USNEWSNational University of Singapore	#43	Singapore	USNEWSUniversity of Colorado--Boulder	#44	United States	USNEWSUniversity of Queensland Australia	#45	Australia	USNEWSOhio State University--Columbus	#46	United States	USNEWSUniversity of California--Santa Cruz	#47	United States	USNEWSUniversity of Pittsburgh	#48	United States	USNEWSMcGill University	#49	Canada	USNEWSUniversity of Maryland--College Park	#50	United States	USNEWSUniversity of Illinois--Urbana-Champaign	#51	United States	USNEWSKarolinska Institute	"#52
-Tie"	Sweden	USNEWSRockefeller University	"#52
-Tie"	United States	USNEWSUniversity of California--Davis	"#52
-Tie"	United States	USNEWSNanyang Technological University	"#55
-Tie"	Singapore	USNEWSUniversity of Amsterdam	"#55
-Tie"	Netherlands	USNEWSUniversity of Tokyo	"#57
-Tie"	Japan	USNEWSUtrecht University	"#57
-Tie"	Netherlands	USNEWSHeidelberg University	"#59
-Tie"	Germany	USNEWSUniversity of Manchester	"#59
-Tie"	United Kingdom	USNEWSUniversity of Zurich	"#59
-Tie"	Switzerland	USNEWSUniversity of Southern California	#62	United States	USNEWSCatholic University of Leuven	#63	Belgium	USNEWSTsinghua University	#64	China	USNEWSPeking University	#65	China	USNEWSPennsylvania State University--University Park	#66	United States	USNEWSVanderbilt University	#67	United States	USNEWSMonash University	#68	Australia	USNEWSAustralian National University	"#69
-Tie"	Australia	USNEWSUniversity of New South Wales	"#69
-Tie"	Australia	USNEWSEmory University	"#71
-Tie"	United States	USNEWSGeorgia Institute of Technology	"#71
-Tie"	United States	USNEWSErasmus University Rotterdam	"#73
-Tie"	Netherlands	USNEWSUniversity of Bristol	"#73
-Tie"	United Kingdom	USNEWSLondon School of Hygiene & Tropical Medicine	"#75
-Tie"	United Kingdom	USNEWSUniversity of California--Irvine	"#75
-Tie"	United States	USNEWSCarnegie Mellon University	"#77
-Tie"	United States	USNEWSUniversity of Arizona	"#77
-Tie"	United States	USNEWSLeiden University	#79	Netherlands	USNEWSTechnical University of Munich	#80	Germany	USNEWSMichigan State University	"#81
-Tie"	United States	USNEWSRice University	"#81
-Tie"	United States	USNEWSUniversity of Barcelona	"#81
-Tie"	Spain	USNEWSUniversity of Helsinki	"#81
-Tie"	Finland	USNEWSLund University	"#85
-Tie"	Sweden	USNEWSVU University Amsterdam	"#85
-Tie"	Netherlands	USNEWSHumboldt-Universität zu Berlin	#87	Germany	USNEWSGhent University	"#88
-Tie"	Belgium	USNEWSUniversity of Geneva	"#88
-Tie"	Switzerland	USNEWSUniversity of Western Australia	"#88
-Tie"	Australia	USNEWSWageningen University and Research Center	"#88
-Tie"	Netherlands	USNEWSBrown University	#92	United States	USNEWSUniversité Paris-Sud	#93	France	USNEWSUniversity of Groningen	#94	Netherlands	USNEWSAarhus University	"#95
-Tie"	Denmark	USNEWSUniversity of Florida	"#95
-Tie"	United States	USNEWS"Rutgers, The State University of New Jersey--New Brunswick"	"#97
-Tie"	United States	USNEWSUniversity of Southampton	"#97
-Tie"	United Kingdom	USNEWSUppsala University	#99	Sweden	USNEWSUniversity Paris Diderot - Paris 7	#100	France	USNEWSRadboud University Nijmegen	#101	Netherlands	USNEWSUniversity of Glasgow	#102	United Kingdom	USNEWSPurdue University--West Lafayette	#103	United States	USNEWSUniversity of Bonn	"#104
-Tie"	Germany	USNEWSUniversity of Oslo	"#104
-Tie"	Norway	USNEWSWeizmann Institute of Science	"#104
-Tie"	Israel	USNEWSUniversity of Birmingham	"#107
-Tie"	United Kingdom	USNEWSUniversity of Virginia	"#107
-Tie"	United States	USNEWSUniversity of Hong Kong	#109	Hong Kong	USNEWSKing Abdulaziz University	#110	Saudi Arabia	USNEWSUniversity of Rochester	#111	United States	USNEWSFreie Universität Berlin	#112	Germany	USNEWSUniversity of Cape Town	#113	South Africa	USNEWSKyoto University	#114	Japan	USNEWSMount Sinai School of Medicine	#115	United States	USNEWS"Queen Mary, University of London"	"#116
-Tie"	United Kingdom	USNEWSUniversity of Bern	"#116
-Tie"	Switzerland	USNEWSTexas A&M University--College Station	#118	United States	USNEWSTechnical University of Denmark	#119	Denmark	USNEWSUniversity of Basel	#120	Switzerland	USNEWSUniversity of Texas Southwestern Medical Center--Dallas	#121	United States	USNEWSUniversity of Adelaide	#122	Australia	USNEWSSeoul National University	#123	South Korea	USNEWSSapienza University of Rome	"#124
-Tie"	Italy	USNEWSUniversity Catholique of Louvain	"#124
-Tie"	Belgium	USNEWSBaylor College of Medicine	"#126
-Tie"	United States	USNEWSUniversity of Massachusetts--Amherst	"#126
-Tie"	United States	USNEWSMcMaster University	#128	Canada	USNEWSIndiana University--Bloomington	"#129
-Tie"	United States	USNEWSStockholm University	"#129
-Tie"	Sweden	USNEWSUniversity of Liverpool	"#129
-Tie"	United Kingdom	USNEWSUniversity of Montreal	"#129
-Tie"	Canada	USNEWSUniversity of Utah	"#129
-Tie"	United States	USNEWSArizona State University--Tempe	"#134
-Tie"	United States	USNEWSUniversity of Alberta	"#134
-Tie"	Canada	USNEWSUniversity of Hamburg	"#134
-Tie"	Germany	USNEWSUniversity of Leeds	"#134
-Tie"	United Kingdom	USNEWSUniversity of Auckland	"#138
-Tie"	New Zealand	USNEWSUniversity of Bologna	"#138
-Tie"	Italy	USNEWSUniversity of Padua	#140	Italy	USNEWSUniversity of California--Riverside	#141	United States	USNEWSUniversity of Göttingen	#142	Germany	USNEWSUniversity of Nottingham	"#143
-Tie"	United Kingdom	USNEWSUniversity of Sheffield	"#143
-Tie"	United Kingdom	USNEWSUniversity of Science and Technology of China	#145	China	USNEWSCase Western Reserve University	"#146
-Tie"	United States	USNEWSUniversite Grenoble Alpes (UGA)	"#146
-Tie"	France	USNEWSChinese University Hong Kong	"#148
-Tie"	Hong Kong	USNEWSFudan University	"#148
-Tie"	China	USNEWSUniversity of Freiburg	"#148
-Tie"	Germany	USNEWSUniversity of Warwick	"#148
-Tie"	United Kingdom	USNEWSHong Kong University of Science and Technology	#152	Hong Kong	USNEWSUniversidade de São Paulo	"#153
-Tie"	Brazil	USNEWSUniversity of Iowa	"#153
-Tie"	United States	USNEWS"Eberhard Karls University, Tübingen"	#155	Germany	USNEWSShanghai Jiao Tong University	"#156
-Tie"	China	USNEWSStony Brook University--SUNY	"#156
-Tie"	United States	USNEWSUniversity of Milan	#158	Italy	USNEWSCardiff University	"#159
-Tie"	United Kingdom	USNEWSUniversity of Aix-Marseille	"#159
-Tie"	France	USNEWSZhejiang University	"#159
-Tie"	China	USNEWSUniversity of Alabama--Birmingham	#162	United States	USNEWSUniversity of Exeter	#163	United Kingdom	USNEWSAutonomous University of Barcelona	"#164
-Tie"	Spain	USNEWSDelft University of Technology	"#164
-Tie"	Netherlands	USNEWSNational Taiwan University	#166	Taiwan	USNEWSCharite - Medical University of Berlin	"#167
-Tie"	Germany	USNEWSKarlsruhe Institute of Technology	"#167
-Tie"	Germany	USNEWSMaastricht University	"#167
-Tie"	Netherlands	USNEWSRWTH Aachen University	"#167
-Tie"	Germany	USNEWSOregon Health & Science University	"#171
-Tie"	United States	USNEWSUniversity of Miami	"#171
-Tie"	United States	USNEWSDurham University	"#173
-Tie"	United Kingdom	USNEWSTel Aviv University	"#173
-Tie"	Israel	USNEWSTufts University	"#173
-Tie"	United States	USNEWSJohann Wolfgang Goethe University Frankfurt am Main	"#176
-Tie"	Germany	USNEWSPompeu Fabra University	"#176
-Tie"	Spain	USNEWSUniversity of Gothenburg	"#176
-Tie"	Sweden	USNEWSUniversity of Lausanne	#179	Switzerland	USNEWSUniversity of Bergen	#180	Norway	USNEWSHebrew University of Jerusalem	"#181
-Tie"	Israel	USNEWSUniversity of Notre Dame	"#181
-Tie"	United States	USNEWSKing Abdullah University of Science & Technology	"#183
-Tie"	Saudi Arabia	USNEWSTechnical University of Dresden	"#183
-Tie"	Germany	USNEWSUniversity of Calgary	"#183
-Tie"	Canada	USNEWSCity University Hong Kong	#186	Hong Kong	USNEWSNewcastle University	"#187
-Tie"	United Kingdom	USNEWSUniversity of Strasbourg	"#187
-Tie"	France	USNEWSUniversity of Vienna	"#187
-Tie"	Austria	USNEWSBoğaziçi University	"#190
-Tie"	Turkey	USNEWSFlorida State University	"#190
-Tie"	United States	USNEWSNanjing University	"#190
-Tie"	China	USNEWSUniversité Libre de Bruxelles	"#190
-Tie"	Belgium	USNEWSOsaka University	"#194
-Tie"	Japan	USNEWSParis Descartes University-Paris V	"#194
-Tie"	France	USNEWSCharles University in Prague	"#196
-Tie"	Czech Republic	USNEWSUniversity of Münster	"#196
-Tie"	Germany	USNEWSKorea Advanced Institute of Science and Technology	"#198
-Tie"	South Korea	USNEWSUniversity of Illinois--Chicago	"#198
-Tie"	United States	USNEWSSungkyunkwan University	"#200
-Tie"	South Korea	USNEWSUniversity of Cincinnati	"#200
-Tie"	United States	USNEWSUniversity of Tennessee	"#200
-Tie"	United States	USNEWSUniversity of Maryland--Baltimore	#203	United States	USNEWSIowa State University	"#204
-Tie"	United States	USNEWSJohannes Gutenberg University of Mainz	"#204
-Tie"	Germany	USNEWSRoyal Institute of Technology	"#204
-Tie"	Sweden	USNEWSTohoku University	"#204
-Tie"	Japan	USNEWSMedical University of Vienna	"#208
-Tie"	Austria	USNEWSUniversity of Ottawa	"#208
-Tie"	Canada	USNEWSÉcole Polytechnique	"#210
-Tie"	France	USNEWSUniversity of Montpellier	"#210
-Tie"	France	USNEWSUniversity of Sussex	"#210
-Tie"	United Kingdom	USNEWSAutonomous University of Madrid	"#213
-Tie"	Spain	USNEWSUniversity of Würzburg	"#213
-Tie"	Germany	USNEWSUniversity of Antwerp	#215	Belgium	USNEWSUniversity of Witwatersrand	#216	South Africa	USNEWSUniversity of Erlangen Nuremberg	"#217
-Tie"	Germany	USNEWSUniversity of Florence	"#217
-Tie"	Italy	USNEWSUniversity of Lisbon	"#217
-Tie"	Portugal	USNEWSUniversity of Otago	"#217
-Tie"	New Zealand	USNEWSUniversity of York	"#217
-Tie"	United Kingdom	USNEWSNorth Carolina State University--Raleigh	"#222
-Tie"	United States	USNEWSUniversity of Trieste	"#222
-Tie"	Italy	USNEWSDartmouth College	"#224
-Tie"	United States	USNEWSUniversity of Turin	"#224
-Tie"	Italy	USNEWSScuola Normale Superiore di Pisa	#226	Italy	USNEWSTrinity College Dublin	#227	Ireland	USNEWSNortheastern University	"#228
-Tie"	United States	USNEWSUniversity of Pisa	"#228
-Tie"	Italy	USNEWSUniversity of Waterloo	#230	Canada	USNEWSUniversity of Naples Federico II	#231	Italy	USNEWSUniversity of Leicester	#232	United Kingdom	USNEWSClaude Bernard University Lyon 1	#233	France	USNEWSHong Kong Polytechnic University	"#234
-Tie"	Hong Kong	USNEWSMacquarie University	"#234
-Tie"	Australia	USNEWSUniversity of Texas--Dallas	"#234
-Tie"	United States	USNEWSSun Yat-sen University	"#237
-Tie"	China	USNEWSUniversity of New Mexico	"#237
-Tie"	United States	USNEWS"École Normale Superieure, Paris"	"#239
-Tie"	France	USNEWSOregon State University	"#239
-Tie"	United States	USNEWSTechnion Israel Institute of Technology	"#239
-Tie"	Israel	USNEWSUniversity of Aberdeen	"#239
-Tie"	United Kingdom	USNEWSUniversity of Cologne	#243	Germany	USNEWSLondon School of Economics and Political Science	"#244
-Tie"	United Kingdom	USNEWSUniversity of Pavia	"#244
-Tie"	Italy	USNEWSUniversity of St. Andrews	#246	United Kingdom	USNEWSNagoya University	"#247
-Tie"	Japan	USNEWSUniversity at Buffalo--SUNY	"#247
-Tie"	United States	USNEWSUniversity of Kansas	#249	United States	USNEWSColorado State University	"#250
-Tie"	United States	USNEWSLancaster University	"#250
-Tie"	United Kingdom	USNEWSVirginia Tech	"#250
-Tie"	United States	USNEWSBrandeis University	"#253
-Tie"	United States	USNEWSJames Cook University	"#253
-Tie"	Australia	USNEWSAalto University	"#255
-Tie"	Finland	USNEWSFree University of Brussels	"#255
-Tie"	Belgium	USNEWSUniversity College Dublin	"#257
-Tie"	Ireland	USNEWSUniversity of Kiel	"#257
-Tie"	Germany	USNEWSYeshiva University	"#257
-Tie"	United States	USNEWSGeorge Washington University	"#260
-Tie"	United States	USNEWSUniversity of Dundee	"#260
-Tie"	United Kingdom	USNEWSUniversity of Technology Sydney	"#260
-Tie"	Australia	USNEWSUniversity of Valencia	"#260
-Tie"	Spain	USNEWSCurtin University of Technology	#264	Australia	USNEWSGriffith University	"#265
-Tie"	Australia	USNEWSUniversity of Georgia	"#265
-Tie"	United States	USNEWSDeakin University	"#267
-Tie"	Australia	USNEWSM. V. Lomonosov Moscow State University	"#267
-Tie"	Russia	USNEWSUniversity of East Anglia	"#267
-Tie"	United Kingdom	USNEWSUniversity of Oregon	"#267
-Tie"	United States	USNEWSWestern University	"#267
-Tie"	Canada	USNEWSUniversity of Nebraska--Lincoln	#272	United States	USNEWSUniversity of Victoria	#273	Canada	USNEWSKorea University	"#274
-Tie"	South Korea	USNEWSNorwegian University of Science and Technology	"#274
-Tie"	Norway	USNEWSQueensland University of Technology	"#274
-Tie"	Australia	USNEWSUmeå University	"#274
-Tie"	Sweden	USNEWSUniversity of Rome Tor Vergata	"#274
-Tie"	Italy	USNEWSGeorgetown University	"#279
-Tie"	United States	USNEWSUniversity of Innsbruck	"#279
-Tie"	Austria	USNEWSTokyo Institute of Technology	#281	Japan	USNEWSHuazhong University of Science and Technology	"#282
-Tie"	China	USNEWSInternational School for Advanced Studies	"#282
-Tie"	Italy	USNEWSSimon Fraser University	"#282
-Tie"	Canada	USNEWSUniversity of Ulm	#285	Germany	USNEWSNational and Kapodistrian University of Athens	"#286
-Tie"	Greece	USNEWSPolytechnic University of Milan	"#286
-Tie"	Italy	USNEWSUniversity of South Florida	"#286
-Tie"	United States	USNEWSUniversity of Duisburg-Essen	#289	Germany	USNEWSAalborg University	"#290
-Tie"	Denmark	USNEWSEindhoven University of Technology	"#290
-Tie"	Netherlands	USNEWSQueen's University Belfast	"#290
-Tie"	United Kingdom	USNEWSUniversity of Milan - Bicocca	"#290
-Tie"	Italy	USNEWSUniversity of Newcastle	"#290
-Tie"	Australia	USNEWSUniversity of Wollongong	"#290
-Tie"	Australia	USNEWSLaval University	"#296
-Tie"	Canada	USNEWSPohang University of Science and Technology	"#296
-Tie"	South Korea	USNEWS"Royal Holloway, University of London (RHUL)"	"#296
-Tie"	United Kingdom	USNEWSTechnical University of Berlin	"#296
-Tie"	Germany	USNEWSUniversity of Turku	"#296
-Tie"	Finland	USNEWSUniversity of Malaya	"#301
-Tie"	Malaysia	USNEWSUniversity of Reading	"#301
-Tie"	United Kingdom	USNEWSVienna University of Technology	"#301
-Tie"	Austria	USNEWSHarbin Institute of Technology	"#304
-Tie"	China	USNEWSIndiana University-Purdue University--Indianapolis	"#304
-Tie"	United States	USNEWSUniversity of Delaware	"#304
-Tie"	United States	USNEWSYonsei University	#307	South Korea	USNEWSGrenoble Institute of Technology	"#308
-Tie"	France	USNEWSVita-Salute San Raffaele University	"#308
-Tie"	Italy	USNEWSUniversity of Porto	"#310
-Tie"	Portugal	USNEWSUniversity of South Carolina	"#310
-Tie"	United States	USNEWSWayne State University	"#310
-Tie"	United States	USNEWSUniversity of Connecticut	#313	United States	USNEWSMiddle East Technical University	#314	Turkey	USNEWSPontificia University Católica de Chile	#315	Chile	USNEWSKyushu University	"#316
-Tie"	Japan	USNEWSUniversity of Granada	"#316
-Tie"	Spain	USNEWSUniversity of Tasmania	"#316
-Tie"	Australia	USNEWSUniversity of Twente	#319	Netherlands	USNEWSUniversity of Perugia	#320	Italy	USNEWSLinköping University	"#321
-Tie"	Sweden	USNEWSUniversity of Canterbury	"#321
-Tie"	New Zealand	USNEWSWuhan University	"#321
-Tie"	China	USNEWSBeijing Normal University	"#324
-Tie"	China	USNEWSSwedish University of Agricultural Sciences	"#324
-Tie"	Sweden	USNEWSUniversity of Kentucky	"#324
-Tie"	United States	USNEWSTongji University	#327	China	USNEWSDalhousie University	#328	Canada	USNEWSHeinrich Heine University of Dusseldorf	"#329
-Tie"	Germany	USNEWSUniversity of Oklahoma	"#329
-Tie"	United States	USNEWSUniversity of Savoie	"#331
-Tie"	France	USNEWSUniversity of Tartu	"#331
-Tie"	Estonia	USNEWSNankai University	"#333
-Tie"	China	USNEWSUniversity of Southern Denmark	"#333
-Tie"	Denmark	USNEWSWake Forest University	"#333
-Tie"	United States	USNEWSIstanbul Technical University	"#336
-Tie"	Turkey	USNEWSUniversity of KwaZulu Natal	"#336
-Tie"	South Africa	USNEWSComplutense University of Madrid	"#338
-Tie"	Spain	USNEWSFederal University of Rio de Janeiro	"#338
-Tie"	Brazil	USNEWSUniversity at Albany--SUNY	"#338
-Tie"	United States	USNEWSBaylor University	"#341
-Tie"	United States	USNEWSUniversity of Buenos Aires	"#341
-Tie"	Argentina	USNEWSUniversity of Missouri	"#341
-Tie"	United States	USNEWSFriedrich Schiller University of Jena	"#344
-Tie"	Germany	USNEWSLouisiana State University--Baton Rouge	"#344
-Tie"	United States	USNEWSState University of Campinas	"#344
-Tie"	Brazil	USNEWSUniversity of Colorado--Denver	"#344
-Tie"	United States	USNEWSXiamen University	"#344
-Tie"	China	USNEWSPolitecnico di Bari	"#349
-Tie"	Italy	USNEWSRuhr University Bochum	"#349
-Tie"	Germany	USNEWSSt George's University of London	"#349
-Tie"	United Kingdom	USNEWSUniversity of Genoa	"#349
-Tie"	Italy	USNEWSUniversity of Liège	"#349
-Tie"	Belgium	USNEWSUniversity of Iceland	"#354
-Tie"	Iceland	USNEWSUniversity of Leipzig	"#354
-Tie"	Germany	USNEWSWashington State University	#356	United States	USNEWSUniversity of Eastern Finland	"#357
-Tie"	Finland	USNEWSWaseda University	"#357
-Tie"	Japan	USNEWSHannover Medical School	"#359
-Tie"	Germany	USNEWSIvane Javakhishvili Tbilisi State University	"#359
-Tie"	Georgia	USNEWSStellenbosch University	"#359
-Tie"	South Africa	USNEWSUniversity of Warsaw	"#359
-Tie"	Poland	USNEWSAristotle University of Thessaloniki	"#363
-Tie"	Greece	USNEWSUniversity of Tsukuba	"#363
-Tie"	Japan	USNEWSUniversity of Western Sydney	"#363
-Tie"	Australia	USNEWSUniversity of Giessen	#366	Germany	USNEWSUniversite de Bordeaux	"#367
-Tie"	France	USNEWSUniversity of Trento	"#367
-Tie"	Italy	USNEWSVirginia Commonwealth University	"#367
-Tie"	United States	USNEWSHokkaido University	"#370
-Tie"	Japan	USNEWSNational Tsing Hua University	"#370
-Tie"	Taiwan	USNEWSUniversity of Hawaii--Manoa	"#370
-Tie"	United States	USNEWSUniversity of Lorraine	"#370
-Tie"	France	USNEWSChalmers University of Technology	"#374
-Tie"	Sweden	USNEWSNational Autonomous University of Mexico	"#374
-Tie"	Mexico	USNEWSQueen's University	"#374
-Tie"	Canada	USNEWSKansas State University	"#377
-Tie"	United States	USNEWSKing Saud University	"#377
-Tie"	Saudi Arabia	USNEWSUniversity of Bath	#379	United Kingdom	USNEWSBlaise Pascal University	"#380
-Tie"	France	USNEWSXi'an Jiaotong University	"#380
-Tie"	China	USNEWSSoutheast University	"#382
-Tie"	China	USNEWSUniversity of Houston	"#382
-Tie"	United States	USNEWSENS De Lyon	#384	France	USNEWSTemple University	"#385
-Tie"	United States	USNEWSUniversity of the Andes Colombia	"#385
-Tie"	Colombia	USNEWSVersailles Saint-Quentin-en-Yvelines University (UVSQ)	"#385
-Tie"	France	USNEWSJagiellonian University	#388	Poland	USNEWSThomas Jefferson University	#389	United States	USNEWSSyracuse University	"#390
-Tie"	United States	USNEWSUniversity of Coimbra	"#390
-Tie"	Portugal	USNEWSUlsan National Institute of Science & Technology	"#392
-Tie"	South Korea	USNEWSUniversity of Bari	"#392
-Tie"	Italy	USNEWSUniversity of Ljubljana	#394	Slovenia	USNEWSUniversity of Oulu	"#395
-Tie"	Finland	USNEWSYork University	"#395
-Tie"	Canada	USNEWSChina University of Geosciences	"#397
-Tie"	China	USNEWSMedical University of Graz	"#397
-Tie"	Austria	USNEWSUniversity of Belgrade	"#397
-Tie"	Serbia	USNEWSMedical University of South Carolina	"#400
-Tie"	United States	USNEWSShandong University	"#400
-Tie"	China	USNEWSSouth China University of Technology	"#400
-Tie"	China	USNEWSUniversity of Siena	"#400
-Tie"	Italy	USNEWSUniversity of South Australia	"#400
-Tie"	Australia	USNEWSCollege de France	"#405
-Tie"	France	USNEWSMedical University of Innsbruck	"#405
-Tie"	Austria	USNEWSUniversity of Manitoba	"#405
-Tie"	Canada	USNEWSUniversity of the Basque Country	"#405
-Tie"	Spain	USNEWSUniversity of Mississippi	#409	United States	USNEWSCzech Technical University in Prague	"#410
-Tie"	Czech Republic	USNEWSDortmund University of Technology	"#410
-Tie"	Germany	USNEWSFlorida International University	"#410
-Tie"	United States	USNEWSRush University	#413	United States	USNEWSDrexel University	"#414
-Tie"	United States	USNEWSUniversity of Surrey	"#414
-Tie"	United Kingdom	USNEWSUniversity of Chile	"#416
-Tie"	Chile	USNEWSUniversity of Santiago of Compostela	"#416
-Tie"	Spain	USNEWSBrunel University	"#418
-Tie"	United Kingdom	USNEWSPhilipps University of Marburg	"#418
-Tie"	Germany	USNEWSUniversity of Regensburg	"#418
-Tie"	Germany	USNEWSBoston College	#421	United States	USNEWSDarmstadt University of Technology	"#422
-Tie"	Germany	USNEWSFlinders University	"#422
-Tie"	Australia	USNEWSSwinburne University of Technology	"#422
-Tie"	Australia	USNEWSUniversity of Guelph	#425	Canada	USNEWSRMIT University	"#426
-Tie"	Australia	USNEWSUniversite Nice Sophia Antipolis	"#426
-Tie"	France	USNEWSUniversity of Plymouth	"#426
-Tie"	United Kingdom	USNEWSDalian University of Technology	"#429
-Tie"	China	USNEWSGeorge Mason University	"#429
-Tie"	United States	USNEWSPolytechnic University of Catalonia	"#429
-Tie"	Spain	USNEWSUniversidad Tecnica Federico Santa Maria	"#429
-Tie"	Chile	USNEWSUniversity of Potsdam	"#429
-Tie"	Germany	USNEWSPolytechnic University of Turin	"#434
-Tie"	Italy	USNEWSRensselaer Polytechnic Institute	"#434
-Tie"	United States	USNEWSUniversity of Catania	"#434
-Tie"	Italy	USNEWSNational Technical University of Athens	#437	Greece	USNEWSNational Research Nuclear University MEPhI (Moscow Engineering Physics Institute)	"#438
-Tie"	Russia	USNEWSUniversidade Tecnica de Lisboa	"#438
-Tie"	Portugal	USNEWSUniversity of Minho	"#438
-Tie"	Portugal	USNEWSUniversity of Alabama	"#441
-Tie"	United States	USNEWSUniversity of Stuttgart	"#441
-Tie"	Germany	USNEWSSaarland University	"#443
-Tie"	Germany	USNEWSUniversity of Nova de Lisboa	"#443
-Tie"	Portugal	USNEWSCentral South University	"#445
-Tie"	China	USNEWSUniversité de Rennes 1	"#445
-Tie"	France	USNEWSUniversity of Crete	"#445
-Tie"	Greece	USNEWSUniversity of Massachusetts Worcester	"#448
-Tie"	United States	USNEWSUniversity of Texas--San Antonio	"#448
-Tie"	United States	USNEWSCairo University	"#450
-Tie"	Egypt	USNEWSUniversity College Cork	"#450
-Tie"	Ireland	USNEWSUniversity of Vermont	"#450
-Tie"	United States	USNEWSBeihang University	"#453
-Tie"	China	USNEWSColorado School of Mines	"#453
-Tie"	United States	USNEWSJilin University	"#453
-Tie"	China	USNEWSUniversity of Pretoria	"#453
-Tie"	South Africa	USNEWSUniversity of Johannesburg	"#457
-Tie"	South Africa	USNEWSUniversity of Jyväskylä	"#457
-Tie"	Finland	USNEWSVictoria University of Wellington	"#457
-Tie"	New Zealand	USNEWSIndian Institute of Science	"#460
-Tie"	India	USNEWSTulane University	"#460
-Tie"	United States	USNEWSLondon Business School	"#462
-Tie"	United Kingdom	USNEWSUniversity of Cyprus	"#462
-Tie"	Cyprus	USNEWSUniversity of Tehran	"#462
-Tie"	Iran	USNEWSUniversity of Texas--Arlington	"#462
-Tie"	United States	USNEWSEotvos Lorand University	"#466
-Tie"	Hungary	USNEWSGeorgia State University	"#466
-Tie"	United States	USNEWSKeio University	"#466
-Tie"	Japan	USNEWSSouthern Methodist University	"#466
-Tie"	United States	USNEWSTianjin University	"#466
-Tie"	China	USNEWSFederal University of Rio Grande do Sul	"#471
-Tie"	Brazil	USNEWSLa Trobe University	"#471
-Tie"	Australia	USNEWSMedical College of Wisconsin	"#471
-Tie"	United States	USNEWSNovosibirsk State University	"#471
-Tie"	Russia	USNEWSUniversity of Tampere	"#471
-Tie"	Finland	USNEWSUniversity of Tromsø	"#471
-Tie"	Norway	USNEWSMassey University	"#477
-Tie"	New Zealand	USNEWSUniversity of Bremen	"#477
-Tie"	Germany	USNEWSAgroParisTech	"#479
-Tie"	France	USNEWSChina Agricultural University	"#479
-Tie"	China	USNEWSHanyang University	"#479
-Tie"	South Korea	USNEWSPalacky University Olomouc	"#479
-Tie"	Czech Republic	USNEWSSoochow University	"#479
-Tie"	China	USNEWSTokyo Metropolitan University	"#479
-Tie"	Japan	USNEWSUniversity of Konstanz	"#479
-Tie"	Germany	USNEWSUniversity of Oviedo	"#479
-Tie"	Spain	USNEWSBen-Gurion University of the Negev	"#487
-Tie"	Israel	USNEWSTexas Tech University	"#487
-Tie"	United States	USNEWSUniversity of Split	"#487
-Tie"	Croatia	USNEWSUniversity of Strathclyde	"#487
-Tie"	United Kingdom	USNEWSBeijing Institute of Technology	"#491
-Tie"	China	USNEWSBilkent University	"#491
-Tie"	Turkey	USNEWSHiroshima University	"#491
-Tie"	Japan	USNEWSRoma Tre University	"#491
-Tie"	Italy	USNEWSTilburg University	"#491
-Tie"	Netherlands	USNEWSUniversity of Graz	"#491
-Tie"	Austria	USNEWSFederal University of Minas Gerais	"#497
-Tie"	Brazil	USNEWSIslamic Azad University	"#497
-Tie"	Iran	USNEWSMakerere University	"#497
-Tie"	Uganda	USNEWSSwansea University	"#497
-Tie"	United Kingdom	USNEWSUniversity of Wisconsin--Milwaukee	"#497
-Tie"	United States	USNEWSUniversity of Zaragoza	"#497
-Tie"	Spain	USNEWSPolytechnic University of Valencia	"#503
-Tie"	Spain	USNEWSUniversity of Udine	"#503
-Tie"	Italy	USNEWSCarleton University	"#505
-Tie"	Canada	USNEWSOklahoma State University	"#505
-Tie"	United States	USNEWSUNESP - Universidade Estadual Paulista	"#505
-Tie"	Brazil	USNEWSUniversity of Calabria	"#505
-Tie"	Italy	USNEWSMahidol University	"#509
-Tie"	Thailand	USNEWSUniversity of Central Florida	"#509
-Tie"	United States	USNEWSComenius University in Bratislava	"#511
-Tie"	Slovakia	USNEWSEast China Normal University	"#511
-Tie"	China	USNEWSCentral China Normal University	"#513
-Tie"	China	USNEWSPanjab University	"#513
-Tie"	India	USNEWSUniversidade Federal do ABC (UFABC)	"#513
-Tie"	Brazil	USNEWSUniversity of Ferrara	"#513
-Tie"	Italy	USNEWSUniversity of Navarra	"#513
-Tie"	Spain	USNEWSNUI Galway	#518	Ireland	USNEWSNational Cheng Kung University	"#519
-Tie"	Taiwan	USNEWSSharif University of Technology	"#519
-Tie"	Iran	USNEWSSichuan University	"#519
-Tie"	China	USNEWSUniversity of New Hampshire	"#519
-Tie"	United States	USNEWSAveiro University	"#523
-Tie"	Portugal	USNEWSCentraleSupelec	"#523
-Tie"	France	USNEWSUniversity of Nantes	"#523
-Tie"	France	USNEWSKyung Hee University	"#526
-Tie"	South Korea	USNEWSSan Diego State University	"#526
-Tie"	United States	USNEWSUniversity of Zagreb	"#526
-Tie"	Croatia	USNEWSBielefeld University	"#529
-Tie"	Germany	USNEWSNational Central University	"#529
-Tie"	Taiwan	USNEWSRio de Janeiro State University	"#529
-Tie"	Brazil	USNEWSUniversity of Fribourg	"#529
-Tie"	Switzerland	USNEWSUniversity of Massachusetts--Boston	"#529
-Tie"	United States	USNEWSMoscow Institute of Physics	#534	Russia	USNEWSHong Kong Baptist University	"#535
-Tie"	Hong Kong	USNEWSKobe University	"#535
-Tie"	Japan	USNEWSLanzhou University	"#535
-Tie"	China	USNEWSSaint Petersburg State University	#538	Russia	USNEWSChulalongkorn University	"#539
-Tie"	Thailand	USNEWSHeriot Watt University	"#539
-Tie"	United Kingdom	USNEWSUniversity of Rovira i Virgili	"#539
-Tie"	Spain	USNEWSUniversity of Saskatchewan	"#539
-Tie"	Canada	USNEWSCatholic University of Sacred Heart	"#543
-Tie"	Italy	USNEWSLoughborough University	"#543
-Tie"	United Kingdom	USNEWSMasaryk University	"#543
-Tie"	Czech Republic	USNEWSUniversity of Seville	"#543
-Tie"	Spain	USNEWSVilnius University	"#543
-Tie"	Lithuania	USNEWSIndian Institute of Technology Bombay	"#548
-Tie"	India	USNEWSOkayama University	"#548
-Tie"	Japan	USNEWSUniversity of Bodenkultur Wien	"#548
-Tie"	Austria	USNEWSShanghai University	#551	China	USNEWSUniversité du Québec à Montréal	#552	Canada	USNEWSEast China University of Science and Technology	"#553
-Tie"	China	USNEWSUniversity of Mons	"#553
-Tie"	Belgium	USNEWSKyungpook National University	"#555
-Tie"	South Korea	USNEWSUniversity of Bayreuth	"#555
-Tie"	Germany	USNEWSUniversity of Salamanca	"#555
-Tie"	Spain	USNEWSUniversity of Verona	"#555
-Tie"	Italy	USNEWSBar-Ilan University	"#559
-Tie"	Israel	USNEWSQuaid I Azam University	"#559
-Tie"	Pakistan	USNEWSUniversity of Debrecen	"#559
-Tie"	Hungary	USNEWSUniversiti Teknologi Malaysia	"#562
-Tie"	Malaysia	USNEWSUniversity of Hannover	"#562
-Tie"	Germany	USNEWSUniversity of Ioannina	"#562
-Tie"	Greece	USNEWSEwha Womans University	"#565
-Tie"	South Korea	USNEWSUniversity of Rostock	"#565
-Tie"	Germany	USNEWSHacettepe University	"#567
-Tie"	Turkey	USNEWSUniversity of Modena and Reggio Emilia	"#567
-Tie"	Italy	USNEWSSt. Louis University	#569	United States	USNEWSLappeenranta University of Technology	"#570
-Tie"	Finland	USNEWSLiverpool John Moores University (LJMU)	"#570
-Tie"	United Kingdom	USNEWSUniversity of Seoul	"#570
-Tie"	South Korea	USNEWSBenemerita Universidad Autonoma de Puebla	"#573
-Tie"	Mexico	USNEWSChonnam National University	"#573
-Tie"	South Korea	USNEWSNational Chiao Tung University	"#573
-Tie"	Taiwan	USNEWSEcole Superieure de Physique et de Chimie Industrielles de la Ville de Paris	"#576
-Tie"	France	USNEWSNorwegian University of Life Sciences	"#576
-Tie"	Norway	USNEWSUniversity of Mannheim	"#576
-Tie"	Germany	USNEWSUniversiti Sains Malaysia	"#579
-Tie"	Malaysia	USNEWSUniversity of Lille I	"#579
-Tie"	France	USNEWSKent State University	"#581
-Tie"	United States	USNEWSUniversity of Salerno	"#581
-Tie"	Italy	USNEWSBabeş-Bolyai University	"#583
-Tie"	Romania	USNEWSPolytechnic University of Madrid	"#583
-Tie"	Spain	USNEWSUniversity of Louisville	"#583
-Tie"	United States	USNEWSFederal University of São Paulo	"#586
-Tie"	Brazil	USNEWSHunan University	"#586
-Tie"	China	USNEWSUniversity of Palermo	"#586
-Tie"	Italy	USNEWSUniversity of Portsmouth	#589	United Kingdom	USNEWSAnkara University	"#590
-Tie"	Turkey	USNEWSIsfahan University of Technology	"#590
-Tie"	Iran	USNEWSUniversity of Alaska--Fairbanks	"#590
-Tie"	United States	USNEWSUniversity of Salento	#593	Italy	USNEWSCollege of William and Mary	"#594
-Tie"	United States	USNEWSUniversity of Brescia	"#594
-Tie"	Italy	USNEWSUniversity of Kent	"#594
-Tie"	United Kingdom	USNEWSMartin Luther University of Halle-Wittenberg	"#597
-Tie"	Germany	USNEWSNational University La Plata	"#597
-Tie"	Argentina	USNEWSUniversity of Electronic Science and Technology of China	"#597
-Tie"	China	USNEWSUniversity of Essex	"#597
-Tie"	United Kingdom	USNEWSBrigham Young University--Provo	"#601
-Tie"	United States	USNEWSOpen University	"#601
-Tie"	United Kingdom	USNEWSUniversity of Ulsan	"#601
-Tie"	South Korea	USNEWSAGH University of Science & Technology	"#604
-Tie"	Poland	USNEWSUniversity of Wyoming	"#604
-Tie"	United States	USNEWSAuckland University of Technology	#606	New Zealand	USNEWSMurdoch University	"#607
-Tie"	Australia	USNEWSUniversity of Hertfordshire	"#607
-Tie"	United Kingdom	USNEWSUniversity of Parma	"#607
-Tie"	Italy	USNEWSUniversity of Sherbrooke	"#607
-Tie"	Canada	USNEWSBangor University	"#611
-Tie"	United Kingdom	USNEWSRenmin University of China	"#611
-Tie"	China	USNEWSUniversity of Cagliari	"#611
-Tie"	Italy	USNEWSUniversity of Missouri--Kansas City	"#611
-Tie"	United States	USNEWSAberystwyth University	"#615
-Tie"	United Kingdom	USNEWSWarsaw University of Technology	"#615
-Tie"	Poland	USNEWSUtah State University	#617	United States	USNEWSClemson University	"#618
-Tie"	United States	USNEWSGraz University of Technology	"#618
-Tie"	Austria	USNEWSUniversitat de Girona	"#620
-Tie"	Spain	USNEWSUniversity of Montana	"#620
-Tie"	United States	USNEWSUniversity of Maryland--Baltimore County	#622	United States	USNEWSKing Fahd University of Petroleum and Minerals (KFUPM)	"#623
-Tie"	Saudi Arabia	USNEWSMemorial University of Newfoundland	"#623
-Tie"	Canada	USNEWSParthenope University Naples	"#623
-Tie"	Italy	USNEWSPusan National University	"#623
-Tie"	South Korea	USNEWSTokyo Medical and Dental University	"#627
-Tie"	Japan	USNEWSUniversity Hohenheim	"#627
-Tie"	Germany	USNEWSUniversity of North Texas	"#627
-Tie"	United States	USNEWSChiba University	"#630
-Tie"	Japan	USNEWSErnst Moritz Arndt Universitat Greifswald	"#630
-Tie"	Germany	USNEWSIndian Institute of Technology Delhi	"#630
-Tie"	India	USNEWSOld Dominion University	"#630
-Tie"	United States	USNEWSHelwan University	"#634
-Tie"	Egypt	USNEWSIllinois Institute of Technology	"#634
-Tie"	United States	USNEWSUniversity of Eastern Piedmont Amedeo Avogadro	"#634
-Tie"	Italy	USNEWSUniversity of Sofia	"#634
-Tie"	Bulgaria	USNEWSInstitut National Polytechnique de Toulouse	"#638
-Tie"	France	USNEWSTampere University of Technology	"#638
-Tie"	Finland	USNEWSUniversiti Putra Malaysia	"#638
-Tie"	Malaysia	USNEWSUniversity of Texas Medical Branch--Galveston	"#638
-Tie"	United States	USNEWSWest Virginia University	"#638
-Tie"	United States	USNEWSBirkbeck University London	"#643
-Tie"	United Kingdom	USNEWSVictoria University	"#643
-Tie"	Australia	USNEWSAugusta University	"#645
-Tie"	United States	USNEWSBeijing Jiaotong University	"#645
-Tie"	China	USNEWSChonbuk National University	"#645
-Tie"	South Korea	USNEWSConcordia University	"#645
-Tie"	Canada	USNEWSNorthern Illinois University	"#649
-Tie"	United States	USNEWSUniversity of Lubeck	"#649
-Tie"	Germany	USNEWSBraunschweig University of Technology	"#651
-Tie"	Germany	USNEWSCity University London	"#651
-Tie"	United Kingdom	USNEWSINSEAD Business School	"#651
-Tie"	France	USNEWSNorthern Arizona University	#654	United States	USNEWSChongqing University	#655	China	USNEWSLoyola University Chicago	"#656
-Tie"	United States	USNEWSSemmelweis University	"#656
-Tie"	Hungary	USNEWSFederal University of Santa Catarina	#658	Brazil	USNEWSUniversidad Autonoma de San Luis Potosi	"#659
-Tie"	Mexico	USNEWSUniversity of Luxembourg	"#659
-Tie"	Luxembourg	USNEWSAmirkabir University of Technology (AUT)	"#661
-Tie"	Iran	USNEWSLehigh University	"#661
-Tie"	United States	USNEWSAuburn University	"#663
-Tie"	United States	USNEWSDonghua University	"#663
-Tie"	China	USNEWSGwangju Institute of Science and Technology	"#663
-Tie"	South Korea	USNEWSUniversity of Burgundy	"#663
-Tie"	France	USNEWSUniversity of Science & Technology Beijing	"#663
-Tie"	China	USNEWSBelarusian State University	"#668
-Tie"	Belarus	USNEWSIstanbul University	"#668
-Tie"	Turkey	USNEWSUniversity of Arkansas	"#668
-Tie"	United States	USNEWSUniversity of Patras	"#668
-Tie"	Greece	USNEWSIndian Institute of Technology Madras	#672	India	USNEWSJohannes Kepler University of Linz	"#673
-Tie"	Austria	USNEWSMontana State University	"#673
-Tie"	United States	USNEWSNanjing Agricultural University	"#673
-Tie"	China	USNEWSNew Mexico State University	"#673
-Tie"	United States	USNEWSUniversity of Denver	"#673
-Tie"	United States	USNEWSUniversity of Hull	"#673
-Tie"	United Kingdom	USNEWSUniversity of Stirling	"#673
-Tie"	United Kingdom	USNEWSAmerican University of Beirut	#680	Lebanon	USNEWSEcole Pratique des Hautes Etudes	"#681
-Tie"	France	USNEWSOtto von Guericke University	"#681
-Tie"	Germany	USNEWSSaint Petersburg State Polytechnic University	"#681
-Tie"	Russia	USNEWSUniversity of Orleans	"#681
-Tie"	France	USNEWSUniversity of Paris-Est Creteil	"#681
-Tie"	France	USNEWSSuez Canal University	"#686
-Tie"	Egypt	USNEWSUniversity of Marrakech Cadi Ayyad	"#686
-Tie"	Morocco	USNEWSUniversity of New England	"#686
-Tie"	Australia	USNEWSEdith Cowan University	"#689
-Tie"	Australia	USNEWSOhio University	"#689
-Tie"	United States	USNEWSUniversity of Waikato	"#689
-Tie"	New Zealand	USNEWSUniversity of Akron	#692	United States	USNEWSKeele University	"#693
-Tie"	United Kingdom	USNEWSMarche Polytechnic University	"#693
-Tie"	Italy	USNEWSUniversity of California--Merced	"#693
-Tie"	United States	USNEWSAston University	"#696
-Tie"	United Kingdom	USNEWSNational University of Malaysia	"#696
-Tie"	Malaysia	USNEWSIndian Institute of Technology Kharagpur	"#698
-Tie"	India	USNEWSShinshu University	"#698
-Tie"	Japan	USNEWSUniversity of Haifa	"#698
-Tie"	Israel	USNEWSEge University	"#701
-Tie"	Turkey	USNEWSTomsk State University	"#701
-Tie"	Russia	USNEWSUniversidad Carlos III de Madrid	"#701
-Tie"	Spain	USNEWSAligarh Muslim University	"#704
-Tie"	India	USNEWSBeijing University of Chemical Technology	"#704
-Tie"	China	USNEWSCarl von Ossietzky Universitat Oldenburg	"#704
-Tie"	Germany	USNEWSIndian Institute of Technology Kanpur	"#704
-Tie"	India	USNEWSNational Taiwan University of Science and Technology	"#704
-Tie"	Taiwan	USNEWSUniversity of Idaho	"#704
-Tie"	United States	USNEWSIndian Institute of Technology (IIT) - Roorkee	"#710
-Tie"	India	USNEWSKoc University - Turkey	"#710
-Tie"	Turkey	USNEWSUniversity of the Republic - Uruguay	"#710
-Tie"	Uruguay	USNEWSUniversity of Nevada--Reno	#713	United States	USNEWSAin Shams University	"#714
-Tie"	Egypt	USNEWSMichigan Technological University	"#714
-Tie"	United States	USNEWSNational Research University - Higher School of Economics	"#714
-Tie"	Russia	USNEWSUniversitat de les Illes Balears	"#714
-Tie"	Spain	USNEWSUniversity of Rhode Island	"#714
-Tie"	United States	USNEWSCranfield University	"#719
-Tie"	United Kingdom	USNEWSUniversity of Delhi	"#719
-Tie"	India	USNEWSDublin City University	"#721
-Tie"	Ireland	USNEWSOcean University of China	"#721
-Tie"	China	USNEWSUniversity of Concepción	"#721
-Tie"	Chile	USNEWSSouthwest University - China	#724	China	USNEWSBinghamton University--SUNY	#725	United States	USNEWSCUNY--City College	"#726
-Tie"	United States	USNEWSNational Sun Yat-Sen University	"#726
-Tie"	Taiwan	USNEWSUniversitat Jaume I	"#726
-Tie"	Spain	USNEWSUniversity of Lille II	"#726
-Tie"	France	USNEWSPolytechnic University of Bucharest	#730	Romania	USNEWSNortheastern University - China	"#731
-Tie"	China	USNEWSUniversity of Brasilia	"#731
-Tie"	Brazil	USNEWSUniversity of the Western Cape	"#731
-Tie"	South Africa	USNEWSMississippi State University	#734	United States	USNEWSCapital Medical University	"#735
-Tie"	China	USNEWSFuzhou University	"#735
-Tie"	China	USNEWSHuazhong Agricultural University	"#735
-Tie"	China	USNEWSUniversity of Murcia	"#735
-Tie"	Spain	USNEWSUniversity of Vigo	"#735
-Tie"	Spain	USNEWSJacobs University	"#740
-Tie"	Germany	USNEWSUniversity of Paris Dauphine - Paris IX	"#740
-Tie"	France	USNEWSAlexandria University	"#742
-Tie"	Egypt	USNEWSCukurova University	"#742
-Tie"	Turkey	USNEWSRitsumeikan University	"#742
-Tie"	Japan	USNEWSUniversite de Haute-Alsace (UHA)	"#742
-Tie"	France	USNEWSUniversity of La Laguna	"#742
-Tie"	Spain	USNEWSUniversity of Macau	"#742
-Tie"	Macau	USNEWSNanjing University of Aeronautics and Astronautics	"#748
-Tie"	China	USNEWSUniversity of Nevada--Las Vegas	"#748
-Tie"	United States	USNEWSChina Medical University Taiwan	"#750
-Tie"	Taiwan	USNEWSHoward University	"#750
-Tie"	United States	USNEWS"Northwest University, Xi'an"	"#750
-Tie"	China	USNEWSNational Polytechnic Institute	"#753
-Tie"	Mexico	USNEWSNorthwestern Polytechnical University	"#753
-Tie"	China	USNEWSUniversity of Bucharest	"#753
-Tie"	Romania	USNEWSMansoura University	"#756
-Tie"	Egypt	USNEWSNational Yang-Ming University	"#756
-Tie"	Taiwan	USNEWSTehran University of Medical Sciences	"#756
-Tie"	Iran	USNEWSUniversity of London Royal Veterinary College	"#756
-Tie"	United Kingdom	USNEWSUniversity of Neuchatel	"#756
-Tie"	Switzerland	USNEWSUniversity of Szeged	"#756
-Tie"	Hungary	USNEWSUniversity of Wrocław	"#756
-Tie"	Poland	USNEWSUniversite Paul-Valery Montpellier 3	"#763
-Tie"	France	USNEWSUniversity of Maribor	"#763
-Tie"	Slovenia	USNEWSAga Khan University	"#765
-Tie"	Pakistan	USNEWSMaynooth University	"#765
-Tie"	Ireland	USNEWSYildiz Teknik University	"#765
-Tie"	Turkey	USNEWSBanaras Hindu University	"#768
-Tie"	India	USNEWSCharles Darwin University	"#768
-Tie"	Australia	USNEWSUniversity of Paris Nord - Paris XIII	"#768
-Tie"	France	USNEWSMersin University	#771	Turkey	USNEWSUniversity of Kaiserslautern	#772	Germany	USNEWSSejong University	"#773
-Tie"	South Korea	USNEWSUniversidad Nacional de Colombia	"#773
-Tie"	Colombia	USNEWSUniversity of Paris Sorbonne - Paris IV	"#773
-Tie"	France	USNEWSRoyal College of Surgeons - Ireland	#776	Ireland	USNEWSJiangnan University	"#777
-Tie"	China	USNEWSMINES ParisTech	"#777
-Tie"	France	USNEWSMissouri University of Science & Technology	"#777
-Tie"	United States	USNEWSSalzburg University	"#777
-Tie"	Austria	USNEWSNorth West University - South Africa	"#781
-Tie"	South Africa	USNEWSUniversity of Angers	"#781
-Tie"	France	USNEWSUniversity of Louisiana--Lafayette	"#781
-Tie"	United States	USNEWSUniversity of North Carolina--Charlotte	"#781
-Tie"	United States	USNEWSAddis Ababa University	"#785
-Tie"	Ethiopia	USNEWSChang Gung University	"#785
-Tie"	Taiwan	USNEWSHasselt University	"#785
-Tie"	Belgium	USNEWSUniversity of Basilicata	"#785
-Tie"	Italy	USNEWSYeungnam University	"#785
-Tie"	South Korea	USNEWSAll India Institute of Medical Sciences	"#790
-Tie"	India	USNEWSHefei University of Technology	"#790
-Tie"	China	USNEWSUniversidad de Cantabria	"#790
-Tie"	Spain	USNEWSUniversite de Brest	"#790
-Tie"	France	USNEWSUniversity of Ulster	"#790
-Tie"	United Kingdom	USNEWSGazi University	"#795
-Tie"	Turkey	USNEWSIran University Science & Technology	"#795
-Tie"	Iran	USNEWSNanjing University of Science & Technology	"#795
-Tie"	China	USNEWSUniversity of Brighton	"#795
-Tie"	United Kingdom	USNEWSGyeongsang National University	#799	South Korea	USNEWSMohammed V University	"#800
-Tie"	Morocco	USNEWSTokyo University of Science	"#800
-Tie"	Japan	USNEWSUniversity of Qatar	"#800
-Tie"	Qatar	USNEWSEcole Nationale Superieure de Chimie de Paris	"#803
-Tie"	France	USNEWSNorthwest A&F University - China	"#803
-Tie"	China	USNEWSRochester Institute of Technology	"#803
-Tie"	United States	USNEWSTarbiat Modares University	#806	Iran	USNEWSAdam Mickiewicz University	"#807
-Tie"	Poland	USNEWSChina University of Petroleum	"#807
-Tie"	China	USNEWSMiami University--Oxford	"#807
-Tie"	United States	USNEWSCreighton University	"#810
-Tie"	United States	USNEWSUniversity of Veterinary Medicine Vienna	"#810
-Tie"	Austria	USNEWSKonkuk University	#812	South Korea	USNEWSFederal University of Sao Carlos	"#813
-Tie"	Brazil	USNEWSInha University	"#813
-Tie"	South Korea	USNEWSNew Jersey Institute of Technology	"#813
-Tie"	United States	USNEWSUniversity of Canberra	"#813
-Tie"	Australia	USNEWSUniversity of Poitiers	"#813
-Tie"	France	USNEWSFourth Military Medical University	"#818
-Tie"	China	USNEWSNanjing Normal University	"#818
-Tie"	China	USNEWSNew York Medical College	"#818
-Tie"	United States	USNEWSOsaka City University	"#818
-Tie"	Japan	USNEWSPortland State University	"#818
-Tie"	United States	USNEWSRyerson University	"#818
-Tie"	Canada	USNEWSUniversity of Picardie-Jules-Verne	"#818
-Tie"	France	USNEWSUniversity of Regina	"#818
-Tie"	Canada	USNEWSUniversidad de Cordoba	"#826
-Tie"	Spain	USNEWSUniversidad de Malaga	"#826
-Tie"	Spain	USNEWSUniversity of Toledo	"#826
-Tie"	United States	USNEWSFederal University of Paraná	"#829
-Tie"	Brazil	USNEWSNational University of Cordoba	"#829
-Tie"	Argentina	USNEWSNiigata University	"#829
-Tie"	Japan	USNEWSAustralian Catholic University	"#832
-Tie"	Australia	USNEWSSeconda Universita degli Studi di Napoli	"#832
-Tie"	Italy	USNEWSUniversity of Castilla-La Mancha	#834	Spain	USNEWSAssiut University	"#835
-Tie"	Egypt	USNEWSUniversidad de Antioquia	"#835
-Tie"	Colombia	USNEWSUniversity of Rouen	"#835
-Tie"	France	USNEWSChiang Mai University	"#838
-Tie"	Thailand	USNEWSUniversity of Aquila	"#838
-Tie"	Italy	USNEWSAbo Akademi University	"#840
-Tie"	Finland	USNEWSJadavpur University	"#840
-Tie"	India	USNEWSNational University of Defence Technology - China	"#842
-Tie"	China	USNEWSUniversity of Insubria	"#842
-Tie"	Italy	USNEWSNorth China Electric Power University	#844	China	USNEWSKangwon National University	"#845
-Tie"	South Korea	USNEWSOrebro University	"#845
-Tie"	Sweden	USNEWSSan Francisco State University	"#845
-Tie"	United States	USNEWSZhengzhou University	"#845
-Tie"	China	USNEWSBeijing University of Posts	"#849
-Tie"	China	USNEWSBudapest University of Technology & Economics	"#849
-Tie"	Hungary	USNEWSKanazawa University	"#849
-Tie"	Japan	USNEWSUniversidad de Alcala	"#849
-Tie"	Spain	USNEWSUniversity of Caen	"#849
-Tie"	France	USNEWSUniversity of Limerick	"#849
-Tie"	Ireland	USNEWSKumamoto University	"#855
-Tie"	Japan	USNEWSNanjing Medical University	"#855
-Tie"	China	USNEWSGraduate University for Advanced Studies - Japan	"#857
-Tie"	Japan	USNEWSUniversity of Memphis	"#857
-Tie"	United States	USNEWSNorthumbria University	"#859
-Tie"	United Kingdom	USNEWSUniversity of Arkansas Medical Sciences	"#859
-Tie"	United States	USNEWSUniversity of Augsburg	"#859
-Tie"	Germany	USNEWSUniversity of Francois Rabelais - Tours	"#859
-Tie"	France	USNEWSUniversity of Sassari	"#859
-Tie"	Italy	USNEWSChung Ang University	"#864
-Tie"	South Korea	USNEWSHarbin Engineering University	"#864
-Tie"	China	USNEWSShenzhen University	"#864
-Tie"	China	USNEWSCharles Sturt University	#867	Australia	USNEWSFerdowsi University Mashhad	"#868
-Tie"	Iran	USNEWSUnited Arab Emirates University	"#868
-Tie"	United Arab Emirates	USNEWSUniversidade Federal da Bahia	"#868
-Tie"	Brazil	USNEWSUniversity of South Bohemia Ceske Budejovice	"#868
-Tie"	Czech Republic	USNEWSUniversity of Messina	#872	Italy	USNEWSSouthern Illinois University--Carbondale	"#873
-Tie"	United States	USNEWSWuhan University of Technology	"#873
-Tie"	China	USNEWSJean Monnet University	#875	France	USNEWSGaziantep University	"#876
-Tie"	Turkey	USNEWSLulea University of Technology	"#876
-Tie"	Sweden	USNEWSUniversidade Federal Fluminense	"#876
-Tie"	Brazil	USNEWSWroclaw University of Technology	"#876
-Tie"	Poland	USNEWSCUNY--Hunter College	"#880
-Tie"	United States	USNEWSGaziosmanpasa University	"#880
-Tie"	Turkey	USNEWSUniversidade Federal de Juiz de Fora	"#880
-Tie"	Brazil	USNEWSUniversity of Missouri--St. Louis	"#880
-Tie"	United States	USNEWSUniversity of Tabriz	"#880
-Tie"	Iran	USNEWSHohai University	"#885
-Tie"	China	USNEWSManchester Metropolitan University	"#885
-Tie"	United Kingdom	USNEWSCatholic University of Korea	"#887
-Tie"	South Korea	USNEWSNational Chung Hsing University	"#887
-Tie"	Taiwan	USNEWSBeijing Forestry University	"#889
-Tie"	China	USNEWSNational Taiwan Normal University	"#889
-Tie"	Taiwan	USNEWSBeijing University of Technology	"#891
-Tie"	China	USNEWSFederal University of Pernambuco	"#891
-Tie"	Brazil	USNEWSXidian University	"#891
-Tie"	China	USNEWSSouthern Cross University	"#894
-Tie"	Australia	USNEWSUniversity of Pavol Jozef Safarik Kosice	"#894
-Tie"	Slovakia	USNEWSAjou University	"#896
-Tie"	South Korea	USNEWSEcole Normale Superieure (ENS) Cachan	"#896
-Tie"	France	USNEWSNorth Dakota State University	"#896
-Tie"	United States	USNEWSTaipei Medical University	"#896
-Tie"	Taiwan	USNEWSTallinn University of Technology	"#896
-Tie"	Estonia	USNEWSNagasaki University	"#901
-Tie"	Japan	USNEWSUniversitat Kassel	"#901
-Tie"	Germany	USNEWSChungnam National University	"#903
-Tie"	South Korea	USNEWSTechnische Universitat Chemnitz	"#903
-Tie"	Germany	USNEWSNational University of Sciences & Technology - Pakistan	"#905
-Tie"	Pakistan	USNEWSUniversity of New Brunswick	"#905
-Tie"	Canada	USNEWSUniversidade Federal do Ceara	"#907
-Tie"	Brazil	USNEWSUniversity of Texas El Paso	"#907
-Tie"	United States	USNEWSUniversity Campus Bio-Medico - Rome Italy	#909	Italy	USNEWSFlorida Atlantic University	"#910
-Tie"	United States	USNEWSOxford Brookes University	"#910
-Tie"	United Kingdom	USNEWSMarmara University	"#912
-Tie"	Turkey	USNEWSSultan Qaboos University	"#912
-Tie"	Oman	USNEWSTokai University	"#914
-Tie"	Japan	USNEWSUniversitat de Lleida	"#914
-Tie"	Spain	USNEWSUniversity of Central Lancashire	"#914
-Tie"	United Kingdom	USNEWSNortheast Normal University - China	"#917
-Tie"	China	USNEWSUniversidade do Algarve	"#917
-Tie"	Portugal	USNEWSChina University of Mining	"#919
-Tie"	China	USNEWSShanghai Normal University	"#919
-Tie"	China	USNEWSUniversite de Tunis-El-Manar	"#919
-Tie"	Tunisia	USNEWSKasetsart University	"#922
-Tie"	Thailand	USNEWSUniversita Ca Foscari Venezia	"#922
-Tie"	Italy	USNEWSUniversity of Hyderabad	"#922
-Tie"	India	USNEWSRhodes University	"#925
-Tie"	South Africa	USNEWSTokyo University of Agriculture	"#925
-Tie"	Japan	USNEWSAmerican University	"#927
-Tie"	United States	USNEWSNanjing University of Technology	"#927
-Tie"	China	USNEWSUniversidade Federal de Pelotas	"#929
-Tie"	Brazil	USNEWSUniversite de Sfax	"#929
-Tie"	Tunisia	USNEWSUniversidad de Extremadura	"#931
-Tie"	Spain	USNEWSUniversity of Greenwich	"#931
-Tie"	United Kingdom	USNEWSUniversity of North Carolina--Greensboro	"#931
-Tie"	United States	USNEWSJiangsu University	"#934
-Tie"	China	USNEWSSouthwest Jiaotong University	"#934
-Tie"	China	USNEWSJinan University	"#936
-Tie"	China	USNEWSUniversidad Rey Juan Carlos	"#936
-Tie"	Spain	USNEWSIndian Institute of Technology (IIT) - Guwahati	"#938
-Tie"	India	USNEWSKagoshima University	"#938
-Tie"	Japan	USNEWSSogang University	"#938
-Tie"	South Korea	USNEWSChungbuk National University	"#941
-Tie"	South Korea	USNEWSITMO University	"#941
-Tie"	Russia	USNEWSJordan University of Science & Technology	"#943
-Tie"	Jordan	USNEWSNicolaus Copernicus University	"#943
-Tie"	Poland	USNEWSThird Military Medical University	"#943
-Tie"	China	USNEWSUniformed Services University of the Health Sciences	"#943
-Tie"	United States	USNEWSUniversity of Oklahoma Health Sciences Center	"#943
-Tie"	United States	USNEWSSouth China Normal University	"#948
-Tie"	China	USNEWSUniversidad Austral de Chile	"#948
-Tie"	Chile	USNEWSNara Institute of Science	"#950
-Tie"	Japan	USNEWSTeikyo University	"#950
-Tie"	Japan	USNEWSUniversity of North Dakota	"#950
-Tie"	United States	USNEWSKazan Federal University	"#953
-Tie"	Russia	USNEWSUniversity of Silesia	"#953
-Tie"	Poland	USNEWSUniversity of Auvergne	#955	France	USNEWSKaohsiung Medical University	"#956
-Tie"	Taiwan	USNEWSMedical University Warsaw	"#956
-Tie"	Poland	USNEWSUniversity of Pecs	"#956
-Tie"	Hungary	USNEWSUniversity of Windsor	"#956
-Tie"	Canada	USNEWSVillanova University	"#956
-Tie"	United States	USNEWSMedical University Gdansk	"#961
-Tie"	Poland	USNEWSPrince Songkla University	"#961
-Tie"	Thailand	USNEWSUniversity of Namur	"#961
-Tie"	Belgium	USNEWSLoma Linda University	"#964
-Tie"	United States	USNEWSSuleyman Demirel University	"#964
-Tie"	Turkey	USNEWSFederal University of Vicosa	"#966
-Tie"	Brazil	USNEWSJawaharlal Nehru University	"#966
-Tie"	India	USNEWSKuwait University	"#966
-Tie"	Kuwait	USNEWSUniversidad de Valladolid	"#966
-Tie"	Spain	USNEWSUniversity of Bradford	"#966
-Tie"	United Kingdom	USNEWSKhon Kaen University	"#971
-Tie"	Thailand	USNEWSKochi University	"#971
-Tie"	Japan	USNEWSJuntendo University	"#973
-Tie"	Japan	USNEWSShanxi University	"#973
-Tie"	China	USNEWSUniversidad Miguel Hernandez de Elche	"#973
-Tie"	Spain	USNEWSUniversity of Lodz	"#973
-Tie"	Poland	USNEWSAl Azhar University	"#977
-Tie"	Egypt	USNEWSEhime University	"#977
-Tie"	Japan	USNEWSNanchang University	"#977
-Tie"	China	USNEWSChina Medical University	"#980
-Tie"	China	USNEWSTokyo Medical University	"#980
-Tie"	Japan	USNEWSUniversity of Gdansk	"#980
-Tie"	Poland	USNEWSKinki University (Kindai University)	#983	Japan	USNEWSUniversity of Limoges	#984	France	USNEWSCentral School of Lyon	"#985
-Tie"	France	USNEWSTianjin Medical University	"#985
-Tie"	China	USNEWSTomsk Polytechnic University	"#985
-Tie"	Russia	USNEWSTuscia University	"#985
-Tie"	Italy	USNEWSZagazig University	"#985
-Tie"	Egypt	USNEWSAthens Medical School	"#990
-Tie"	Greece	USNEWSBrock University	"#990
-Tie"	Canada	USNEWSMetropolitan Autonomous University	"#990
-Tie"	Mexico	USNEWSSouth China Agricultural University	"#990
-Tie"	China	USNEWSBrno University of Technology	"#994
-Tie"	Czech Republic	USNEWSUniversity of Toyama	"#994
-Tie"	Japan	USNEWSLinnaeus University	"#996
-Tie"	Sweden	USNEWSNanjing University of Information Science & Technology	"#996
-Tie"	China	USNEWSUniversity of Thessaly	"#996
-Tie"	Greece	USNEWSNihon University	"#999
-Tie"	Japan	USNEWSUniversidad de Jaen	"#999
-Tie"	Spain	USNEWSMassachusetts Institute of Technology (MIT)	1	United States	QSStanford University	2	United States	QSHarvard University	3	United States	QSCalifornia Institute of Technology (Caltech)	4	United States	QSUniversity of Cambridge	5	United Kingdom	QSUniversity of Oxford	6	United Kingdom	QSUCL (University College London)	7	United Kingdom	QSImperial College London	8	United Kingdom	QSUniversity of Chicago	9	United States	QSETH Zurich - Swiss Federal Institute of Technology	10	Switzerland	QS"Nanyang Technological University, Singapore (NTU)"	11	Singapore	QSEcole Polytechnique Fédérale de Lausanne (EPFL)	12	Switzerland	QSPrinceton University	13	United States	QSCornell University	14	United States	QSNational University of Singapore (NUS)	15	Singapore	QSYale University	16	United States	QSJohns Hopkins University	17	United States	QSColumbia University	18	United States	QSUniversity of Pennsylvania	19	United States	QSThe Australian National University	20	Australia	QSUniversity of Michigan	21	United States	QSDuke University	21	United States	QSThe University of Edinburgh	23	United Kingdom	QSKing's College London	23	United Kingdom	QSTsinghua University	25	China	QSThe University of Hong Kong	26	Hong Kong	QS"University of California, Berkeley (UCB)"	27	United States	QSThe University of Tokyo	28	Japan	QSNorthwestern University	28	United States	QSThe Hong Kong University of Science and Technology	30	Hong Kong	QSUniversity of Toronto	31	Canada	QSMcGill University	32	Canada	QS"University of California, Los Angeles (UCLA)"	33	United States	QSThe University of Manchester	34	United Kingdom	QSLondon School of Economics and Political Science (LSE)	35	United Kingdom	QSKyoto University	36	Japan	QSSeoul National University	36	South Korea	QS"University of California, San Diego (UCSD)"	38	United States	QSPeking University	38	China	QSFudan University	40	China	QSKAIST - Korea Advanced Institute of Science & Technology	41	South Korea	QSThe University of Melbourne	41	Australia	QS"Ecole normale supérieure, Paris"	43	France	QSUniversity of Bristol	44	United Kingdom	QSThe University of New South Wales (UNSW Sydney)	45	Australia	QSThe Chinese University of Hong Kong (CUHK)	46	Hong Kong	QSCarnegie Mellon University	47	United States	QSThe University of Queensland	47	Australia	QSCity University of Hong Kong	49	Hong Kong	QSThe University of Sydney	50	Australia	QSUniversity of British Columbia	51	Canada	QSNew York University (NYU)	52	United States	QSBrown University	53	United States	QSDelft University of Technology	54	Netherlands	QSUniversity of Wisconsin-Madison	55	United States	QSTokyo Institute of Technology	56	Japan	QSThe University of Warwick	57	United Kingdom	QSUniversity of Amsterdam	58	Netherlands	QSEcole Polytechnique	59	France	QSMonash University	60	Australia	QSUniversity of Washington	61	United States	QSShanghai Jiao Tong University	62	China	QSOsaka University	63	Japan	QSTechnical University of Munich	64	Germany	QSUniversity of Glasgow	65	United Kingdom	QSLudwig-Maximilians-Universität München	66	Germany	QSUniversity of Texas at Austin	67	United States	QSRuprecht-Karls-Universität Heidelberg	68	Germany	QSUniversity of Illinois at Urbana-Champaign	69	United States	QSGeorgia Institute of Technology	70	United States	QSKU Leuven	71	Belgium	QSPohang University of Science And Technology (POSTECH)	71	South Korea	QSUniversity of Copenhagen	73	Denmark	QSUniversity of Zurich	73	Switzerland	QSUniversidad de Buenos Aires (UBA)	75	Argentina	QSNational Taiwan University (NTU)	76	Taiwan	QSTohoku University	76	Japan	QSDurham University	78	United Kingdom	QSLund University	78	Sweden	QS"University of North Carolina, Chapel Hill"	80	United States	QSBoston University	81	United States	QSThe University of Sheffield	82	United Kingdom	QSThe University of Auckland	82	New Zealand	QSUniversity of Birmingham	84	United Kingdom	QSUniversity of Nottingham	84	United Kingdom	QSThe Ohio State University	86	United States	QSZhejiang University	87	China	QS"Trinity College Dublin, The University of Dublin"	88	Ireland	QSRice University	89	United States	QSKorea University	90	South Korea	QSUniversity of Alberta	90	Canada	QSUniversity of St Andrews	92	United Kingdom	QSPennsylvania State University	93	United States	QSThe University of Western Australia	93	Australia	QSLomonosov Moscow State University	95	Russia	QSThe Hong Kong Polytechnic University	95	Hong Kong	QSUniversity of Science and Technology of China	97	China	QSKTH Royal Institute of Technology	98	Sweden	QSUniversity of Geneva	98	Switzerland	QSWashington University in St. Louis	100	United States	QSUniversity of Leeds	101	United Kingdom	QSUniversity of Helsinki	102	Finland	QSUniversity of Southampton	102	United Kingdom	QSEindhoven University of Technology	104	Netherlands	QSPurdue University	105	United States	QSYonsei University	106	South Korea	QS"KIT, Karlsruhe Institute of Technology"	107	Germany	QSSungkyunkwan University (SKKU)	108	South Korea	QSThe University of Adelaide	109	Australia	QSUtrecht University	109	Netherlands	QSLeiden University	109	Netherlands	QSUppsala University	112	Sweden	QSUniversity of Groningen	113	Netherlands	QSUniversiti Malaya (UM)	114	Malaysia	QSNanjing University	114	China	QSTechnical University of Denmark	116	Denmark	QSNagoya University	116	Japan	QS"University of California, Davis"	118	United States	QSAarhus University	119	Denmark	QSHumboldt-Universität zu Berlin	120	Germany	QSUniversidade de São Paulo	121	Brazil	QSHokkaido University	122	Japan	QSUniversidad Nacional Autónoma de México (UNAM)	122	Mexico	QSWageningen University	124	Netherlands	QSFreie Universitaet Berlin	125	Germany	QSGhent University	125	Belgium	QSQueen Mary University of London	127	United Kingdom	QSKyushu University	128	Japan	QS"University of Maryland, College Park"	129	United States	QSUniversité de Montréal	130	Canada	QSUniversité Pierre et Marie Curie (UPMC)	131	France	QSUniversity of Southern California	132	United States	QSChalmers University of Technology	133	Sweden	QS"University of California, Santa Barbara (UCSB)"	134	United States	QSLancaster University	135	United Kingdom	QSUniversity of York	135	United Kingdom	QSPontificia Universidad Católica de Chile (UC)	137	Chile	QSAalto University	137	Finland	QSCardiff University	137	United Kingdom	QSMcMaster University	140	Canada	QSRWTH Aachen University	141	Germany	QSUniversity of Oslo	142	Norway	QSUniversity of Pittsburgh	142	United States	QSTechnische Universität Berlin (TU Berlin)	144	Germany	QSThe Hebrew University of Jerusalem	145	Israel	QSUniversity of Lausanne	146	Switzerland	QSEmory University	147	United States	QSErasmus University Rotterdam	147	Netherlands	QSMichigan State University	149	United States	QSUniversity of Basel	149	Switzerland	QSUniversity of Otago	151	New Zealand	QSUniversity of Waterloo	152	Canada	QSUniversité catholique de Louvain (UCL)	153	Belgium	QSUniversity of Vienna	154	Austria	QSHanyang University	155	South Korea	QSUniversitat de Barcelona	156	Spain	QSÉcole Normale Supérieure de Lyon	157	France	QSThe University of Exeter	158	United Kingdom	QSUniversity of Aberdeen	158	United Kingdom	QSUniversity of Bath	160	United Kingdom	QSNational Tsing Hua University	161	Taiwan	QSNewcastle University	161	United Kingdom	QSUniversity of Minnesota	163	United States	QS"University of California, Irvine"	164	United States	QSEberhard Karls Universität Tübingen	164	Germany	QSUniversity of Bergen	164	Norway	QSUniversity of Bern	167	Switzerland	QSUniversity College Dublin	168	Ireland	QSDartmouth College	169	United States	QSPolitecnico di Milano	170	Italy	QSAlbert-Ludwigs-Universitaet Freiburg	171	Germany	QSIndian Institute of Technology Delhi (IITD)	172	India	QSKing Fahd University of Petroleum & Minerals	173	Saudi Arabia	QSUniversity of Liverpool	173	United Kingdom	QSUniversity of Virginia	173	United States	QSUniversity of Technology Sydney	176	Australia	QSCentraleSupélec	177	France	QSUniversity of Florida	178	United States	QSIndian Institute of Technology Bombay (IITB)	179	India	QSUniversity of Twente	179	Netherlands	QSUniversity of Göttingen	181	Germany	QSUniversidade Estadual de Campinas (Unicamp)	182	Brazil	QSUniversity of Colorado Boulder	182	United States	QSVienna University of Technology	182	Austria	QSVrije Universiteit Brussel (VUB)	182	Belgium	QSUniversity of Rochester	186	United States	QSUniversidad Autónoma de Madrid	187	Spain	QSAlma Mater Studiorum - University of Bologna	188	Italy	QSUniversity of Reading	188	United Kingdom	QSIndian Institute of Science	190	India	QSUniversity of Cape Town	191	South Africa	QSScuola Normale Superiore di Pisa	192	Italy	QSScuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento	192	Italy	QSKeio University	192	Japan	QSStockholm University	195	Sweden	QSUniversitat Autònoma de Barcelona	195	Spain	QSTechnische Universität Dresden	195	Germany	QSTexas A&M University	195	United States	QSInstituto Tecnológico y de Estudios Superiores de Monterrey	199	Mexico	QSMaastricht University	200	Netherlands	QSUniversidad de Chile	201	Chile	QSQueen's University Belfast	202	United Kingdom	QSWaseda University	203	Japan	QSRadboud University	204	Netherlands	QSTel Aviv University	205	Israel	QSUniversite libre de Bruxelles	205	Belgium	QS"University of Illinois, Chicago (UIC)"	207	United States	QSNational Chiao Tung University	207	Taiwan	QSArizona State University	209	United States	QSUniversity of Antwerp	210	Belgium	QSThe University of Western Ontario	210	Canada	QSVanderbilt University	212	United States	QSCase Western Reserve University	213	United States	QSUniversity of Canterbury	214	New Zealand	QSSapienza University of Rome	215	Italy	QSUniversity of Notre Dame	216	United States	QSUniversity of Calgary	217	Canada	QSVrije Universiteit Amsterdam	218	Netherlands	QSVictoria University of Wellington	219	New Zealand	QSSciences Po	220	France	QSKing Saud University	221	Saudi Arabia	QSNational Cheng Kung University (NCKU)	222	Taiwan	QSUniversität Hamburg	223	Germany	QSTechnion - Israel Institute of Technology	224	Israel	QS"The University of Newcastle, Australia (UON)"	224	Australia	QSQueen's University at Kingston	224	Canada	QSGeorgetown University	227	United States	QSUniversity of Sussex	228	United Kingdom	QSUniversiti Putra Malaysia (UPM)	229	Malaysia	QSUniversiti Kebangsaan Malaysia (UKM)	230	Malaysia	QSThe University of Arizona	230	United States	QSUniversity of Wollongong	232	Australia	QSComplutense University of Madrid	233	Spain	QSLoughborough University	234	United Kingdom	QSAmerican University of Beirut (AUB)	235	Lebanon	QSUniversité Grenoble-Alpes	236	France	QSAl-Farabi Kazakh National University	236	Kazakhstan	QSUniversity of Leicester	238	United Kingdom	QSRheinische Friedrich-Wilhelms-Universität Bonn	239	Germany	QSMacquarie University	240	Australia	QSSaint Petersburg State University	240	Russia	QSUniversité Paris-Sud	242	France	QSTufts University	243	United States	QSNational University of Ireland Galway	243	Ireland	QSChulalongkorn University	245	Thailand	QSSimon Fraser University	245	Canada	QSQueensland University of Technology (QUT)	247	Australia	QSRMIT University	247	Australia	QSUniversity of Massachusetts Amherst	249	United States	QSNovosibirsk State University	250	Russia	QSUniversity of Tsukuba	250	Japan	QSUniversity of Miami	252	United States	QSUniversiti Teknologi Malaysia	253	Malaysia	QSUniversidad Nacional de Colombia	254	Colombia	QSUniversität Frankfurt am Main	254	Germany	QSKyung Hee University	256	South Korea	QSUniversidad de los Andes	256	Colombia	QSBeijing Normal University	256	China	QSUniversität Stuttgart	259	Germany	QSNorwegian University of Science And Technology	259	Norway	QSRoyal Holloway University of London	259	United Kingdom	QSCurtin University	262	Australia	QSNorth Carolina State University	263	United States	QSUniversiti Sains Malaysia (USM)	264	Malaysia	QSIndian Institute of Technology Madras (IITM)	264	India	QSNational Taiwan University of Science and Technology (Taiwan Tech)	264	Taiwan	QSUniversity of Surrey	264	United Kingdom	QSKing Abdulaziz University (KAU)	267	Saudi Arabia	QSUniversity of Dundee	267	United Kingdom	QSUniversité Paris 1 Panthéon-Sorbonne	269	France	QSUniversity of Navarra	270	Spain	QSEcole des Ponts ParisTech	270	France	QSTechnische Universität Darmstadt	272	Germany	QSUniversity of East Anglia (UEA)	274	United Kingdom	QSUniversitat Politècnica de Catalunya	275	Spain	QSUniversity of Turku	276	Finland	QSUniversity of Strathclyde	277	United Kingdom	QSUniversitas Indonesia	277	Indonesia	QSDalhousie University	279	Canada	QSUniversity of South Australia	279	Australia	QSUniversidad Carlos III de Madrid (UC3M)	281	Spain	QSWuhan University	282	China	QSRutgers University - New Brunswick	283	United States	QSUniversity College Cork	283	Ireland	QSUniversity of Gothenburg	283	Sweden	QSUniversität Innsbruck	286	Austria	QSFriedrich-Alexander-Universität Erlangen-Nürnberg	287	Germany	QSLinköping University	287	Sweden	QSNational Taiwan Normal University	289	Taiwan	QSUniversity of Ottawa	289	Canada	QSBauman Moscow State Technical University	291	Russia	QSUniversity of Waikato	292	New Zealand	QSDeakin University	293	Australia	QSIndian Institute of Technology Kanpur (IITK)	293	India	QSUniversité Paris-Sorbonne (Paris IV)	293	France	QSUniversitat Pompeu Fabra	296	Spain	QSSOAS University of London	296	United Kingdom	QSUniversità di Padova	296	Italy	QSHong Kong Baptist University	299	Hong Kong	QSEwha Womans University	299	South Korea	QS"University of California, Santa Cruz"	301	United States	QSUniversity of Porto	301	Portugal	QSUniversité de Strasbourg	303	France	QSIndiana University Bloomington	304	United States	QSUniversité Diderot Paris 7	305	France	QSUniversity of Lisbon	305	Portugal	QSPolitecnico di Torino	307	Italy	QSWestfälische Wilhelms-Universität Münster	308	Germany	QS"Birkbeck, University of London"	308	United Kingdom	QSIndian Institute of Technology Kharagpur (IIT-KGP)	308	India	QSUniversidade Federal do Rio de Janeiro	311	Brazil	QSHeriot-Watt University	312	United Kingdom	QSUniversity of Tasmania	313	Australia	QSUniversity of Tartu	314	Estonia	QSCharles University	314	Czech Republic	QSMassey University	316	New Zealand	QSTongji University	316	China	QSUniversity at Buffalo SUNY	318	United States	QSSun Yat-sen University	319	China	QSUniversité de Liège	319	Belgium	QSLincoln University	319	New Zealand	QSHiroshima University	322	Japan	QSTomsk State University	323	Russia	QS"University of California, Riverside"	323	United States	QSUniversity of Milan	325	Italy	QSGriffith University	325	Australia	QSThe Katz School at Yeshiva University	325	United States	QSHarbin Institute of Technology	325	China	QSNational Yang Ming University	329	Taiwan	QSEcole Normale Supérieure de Cachan	330	France	QSUniversidad Austral	331	Argentina	QSUniversity of Cologne	331	Germany	QSBandung Institute of Technology (ITB)	331	Indonesia	QSMahidol University	334	Thailand	QSBelarusian State University	334	Belarus	QSL.N. Gumilyov Eurasian National University (ENU)	336	Kazakhstan	QSUniversidad de Belgrano	337	Argentina	QSUmea University	338	Sweden	QSGwangju Institute of Science and Technology (GIST)	339	South Korea	QSBoston College	339	United States	QSUniversity of Hawai'i at Mañoa	341	United States	QSUniversität Jena	341	Germany	QS"City, University of London"	343	United Kingdom	QSNankai University	344	China	QSXi’an Jiaotong University	344	China	QSNortheastern University	346	United States	QSUniversity of Victoria	346	Canada	QSBrunel University London	346	United Kingdom	QSUniversity of Essex	347	United Kingdom	QSQatar University	349	Qatar	QSUniversiti Brunei Darussalam (UBD)	349	Brunei	QSKobe University	351	Japan	QSBen Gurion University of The Negev	352	Israel	QSGeorge Washington University	352	United States	QSMoscow Institute of Physics and Technology (MIPT / Moscow Phystech)	355	Russia	QS"Université Paris-Dauphine, PSL Research University"	355	France	QSUniversity of Jyväskylä	357	Finland	QSTilburg University	357	Netherlands	QSUniversity Ulm	357	Germany	QSLa Trobe University	360	Australia	QSStellenbosch University	361	South Africa	QSUniversidade Nova de Lisboa	361	Portugal	QSOxford Brookes University	361	United Kingdom	QSUniversity of Witwatersrand	364	South Africa	QSPontificia Universidad Católica Argentina	364	Argentina	QSRensselaer Polytechnic Institute	364	United States	QSVirginia Polytechnic Institute and State University	367	United States	QSUniversity of the Philippines	367	Philippines	QSJames Cook University	367	Australia	QSUniversity of Tromsø The Arctic University of Norway	367	Norway	QSTokyo Medical and Dental University (TMDU)	367	Japan	QSUniversity of St.Gallen (HSG)	372	Switzerland	QSUniversitat Politècnica de València	373	Spain	QSMoscow State Institute of International Relations (MGIMO University)	373	Russia	QSUniversity of Kent	373	United Kingdom	QSNational Research Nuclear University MEPhI (Moscow Engineering Physics Institute)	373	Russia	QSAston University	373	United Kingdom	QSLaval University	378	Canada	QSAalborg University	379	Denmark	QSTampere University of Technology	380	Finland	QSUniversité de Montpellier	381	France	QSNational Research University Higher School of Economics (HSE University)	382	Russia	QS"Stony Brook University, State University of New York"	382	United States	QSUniversity of Southern Denmark	384	Denmark	QSUniversität Konstanz	385	Germany	QSNational Research Tomsk Polytechnic University	386	Russia	QSUniversity of Kansas	386	United States	QSUniversität Mannheim	388	Germany	QSNational Sun Yat-sen University	388	Taiwan	QSUnited Arab Emirates University	390	United Arab Emirates	QSUniversity of Utah	391	United States	QSDublin City University	391	Ireland	QSNational Central University	391	Taiwan	QS"University of Colorado, Denver"	394	United States	QSIllinois Institute of Technology	395	United States	QSThe American University in Cairo	395	Egypt	QSHUFS - Hankuk (Korea) University of Foreign Studies	397	South Korea	QS"Goldsmiths, University of London"	398	United Kingdom	QSJohannes Gutenberg Universität Mainz	398	Germany	QSTaipei Medical University	398	Taiwan	QSLeibniz Universität Hannover	401-410	Germany	QSNational Technical University of Athens	401-410	Greece	QSPeter the Great Saint-Petersburg Polytechnic University	401-410	Russia	QSRuhr-Universität Bochum	401-410	Germany	QSUniversidad Externado de Colombia	401-410	Colombia	QSGadjah Mada University	401-410	Indonesia	QSUniversity of Coimbra	401-410	Portugal	QSV. N. Karazin Kharkiv National University	401-410	Ukraine	QSVilnius University	401-410	Lithuania	QSUniversity of Stirling	401-410	United Kingdom	QSWashington State University	401-410	United States	QSAmerican University of Sharjah	411-420	United Arab Emirates	QSArabian Gulf University	411-420	Bahrain	QSBrandeis University	411-420	United States	QSKazakh National Research Technical University after K.I.Satpayev	411-420	Kazakhstan	QSTaras Shevchenko National University of Kyiv	411-420	Ukraine	QSUniversidad de Costa Rica	411-420	Costa Rica	QSAix-Marseille University	411-420	France	QSUniversity of Oulu	411-420	Finland	QSUniversity of Warsaw	411-420	Poland	QSWake Forest University	411-420	United States	QSBilkent University	421-430	Turkey	QSHitotsubashi University	421-430	Japan	QSShanghai University	421-430	China	QSSwinburne University of Technology	421-430	Australia	QSThe University of Georgia	421-430	United States	QSUniversity of Pisa	421-430	Italy	QSUniversity of Connecticut	421-430	United States	QSUniversity of Delaware	421-430	United States	QSUniversity of Iowa	421-430	United States	QSUniversity of Texas Dallas	421-430	United States	QSBond University	431-440	Australia	QSChristian-Albrechts-University zu Kiel	431-440	Germany	QSConcordia University	431-440	Canada	QSFlorida State University	431-440	United States	QSIndian Institute of Technology Roorkee (IITR)	431-440	India	QSKoc University	431-440	Turkey	QSNational University of Sciences And Technology (NUST) Islamabad	431-440	Pakistan	QSPontificia Universidad Católica del Perú	431-440	Peru	QSSwansea University	431-440	United Kingdom	QSUniversidad de Palermo (UP)	431-440	Argentina	QSXiamen University	431-440	China	QSAuckland University of Technology (AUT)	441-450	New Zealand	QSBangor University	441-450	United Kingdom	QSKazan (Volga region) Federal University	441-450	Russia	QSOregon State University	441-450	United States	QSSingapore Management University	441-450	Singapore	QSSogang University	441-450	South Korea	QSUniversity of Trento	441-450	Italy	QSUniversité Paris Descartes	441-450	France	QSYork University	441-450	Canada	QSBeijing Institute of Technology	451-460	China	QSInstitut National des Sciences Appliquées de Lyon (INSA)	451-460	France	QSKhalifa University	451-460	United Arab Emirates	QSSultan Qaboos University	451-460	Oman	QSTulane University	451-460	United States	QSUniversidad de Santiago de Chile (USACH)	451-460	Chile	QSUniversity of Eastern Finland	451-460	Finland	QSUniversity of Saskatchewan	451-460	Canada	QS"The University of Tennessee, Knoxville"	451-460	United States	QSJagiellonian University	461-470	Poland	QSMartin-Luther-Universität Halle-Wittenberg	461-470	Germany	QSPontificia Universidad Javeriana	461-470	Colombia	QSSabanci University	461-470	Turkey	QSUniversidad de Zaragoza	461-470	Spain	QSUniversity of Florence	461-470	Italy	QS"University of Rome ""Tor Vergata"""	461-470	Italy	QSUniversität Potsdam	461-470	Germany	QSUniversity of New Mexico	461-470	United States	QSWayne State University	461-470	United States	QSAmerican University	471-480	United States	QSDongguk University	471-480	South Korea	QSHuazhong University of Science and Technology	471-480	China	QSIowa State University	471-480	United States	QSJohannes Kepler University Linz	471-480	Austria	QSKarl-Franzens-Universitaet Graz	471-480	Austria	QSKing Khalid University	471-480	Saudi Arabia	QSMiddle East Technical University	471-480	Turkey	QSSharif University of Technology	471-480	"Iran, Islamic Republic of"	QSTianjin University	471-480	China	QSAberystwyth University	481-490	United Kingdom	QSCairo University	481-490	Egypt	QSChang Gung University	481-490	Taiwan	QSColorado State University	481-490	United States	QSJulius-Maximilians-Universität Würzburg	481-490	Germany	QSRenmin (People's) University of China	481-490	China	QSUniversità Cattolica del Sacro Cuore	481-490	Italy	QSUniversity of Naples - Federico II	481-490	Italy	QSUniversität Bremen	481-490	Germany	QSUniversity of Delhi	481-490	India	QS"University of Maryland, Baltimore County"	481-490	United States	QSBogaziçi Üniversitesi	491-500	Turkey	QSCzech Technical University in Prague	491-500	Czech Republic	QSJilin University	491-500	China	QSAbai Kazakh National Pedagogical University	491-500	Kazakhstan	QSUniversidad Politécnica de Madrid	491-500	Spain	QSPusan National University	491-500	South Korea	QSUNESP	491-500	Brazil	QSSaint Joseph University of Beirut (USJ)	491-500	Lebanon	QSUniversity of Guelph	491-500	Canada	QSUral Federal University	491-500	Russia	QSAmirkabir University of Technology	501-550	"Iran, Islamic Republic of"	QSAristotle University of Thessaloniki	501-550	Greece	QSChiba University	501-550	Japan	QSChonbuk National University	501-550	South Korea	QSCity University of New York	501-550	United States	QSClark University	501-550	United States	QSDrexel University	501-550	United States	QSEast China Normal University	501-550	China	QSIndian Institute of Technology Guwahati (IITG)	501-550	India	QS"Kingston University, London"	501-550	United Kingdom	QSLappeenranta University of Technology	501-550	Finland	QSLehigh University	501-550	United States	QSAuezov South Kazakhstan State University (SKSU)	501-550	Kazakhstan	QSMurdoch University	501-550	Australia	QS"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute"""	501-550	Ukraine	QSThe National University of Science and Technology MISIS	501-550	Russia	QSOkayama University	501-550	Japan	QSRUDN University	501-550	Russia	QSPontifícia Universidade Católica de São Paulo	501-550	Brazil	QSPontifícia Universidade Católica do Rio de Janeiro	501-550	Brazil	QSSoutheast University	501-550	China	QSSyracuse University	501-550	United States	QSTechnische Universität Braunschweig	501-550	Germany	QSGraz University of Technology	501-550	Austria	QSThe Catholic University of Korea	501-550	South Korea	QSUniversity of Granada	501-550	Spain	QSUniversidad de Montevideo (UM)	501-550	Uruguay	QSUniversidade Federal de São Paulo	501-550	Brazil	QSUniversidade Federal do Rio Grande Do Sul	501-550	Brazil	QSUniversität des Saarlandes	501-550	Germany	QSUniversity of Hohenheim	501-550	Germany	QSUniversität Leipzig	501-550	Germany	QSUniversität Regensburg	501-550	Germany	QSUniversité Claude Bernard Lyon 1	501-550	France	QSUniversity of Bordeaux	501-550	France	QSUniversité de Fribourg	501-550	Switzerland	QSUniversité du Québec	501-550	Canada	QSUniversité Paul Sabatier Toulouse III	501-550	France	QSUniversity of Aveiro	501-550	Portugal	QSUniversity of Baghdad	501-550	Iraq	QSUniversity of Cincinnati	501-550	United States	QSUniversity of Limerick	501-550	Ireland	QSUniversity of Macau	501-550	"Macao S.A.R., China"	QSUniversity of Nebraska-Lincoln	501-550	United States	QSUniversity of Oklahoma	501-550	United States	QSUniversity of Pretoria	501-550	South Africa	QSUniversity of South Florida	501-550	United States	QSUniversity of Szeged	501-550	Hungary	QSYokohama City University	501-550	Japan	QSAbo Akademi University	551-600	Finland	QSAteneo de Manila University	551-600	Philippines	QSBar-Ilan University	551-600	Israel	QSBeihang University (former BUAA)	551-600	China	QSChiang Mai University	551-600	Thailand	QSCollege of William & Mary	551-600	United States	QSCoventry University	551-600	United Kingdom	QSDalian University of Technology	551-600	China	QSEast China University of Science and Technology	551-600	China	QSFlinders University	551-600	Australia	QSHoward University	551-600	United States	QSInstituto Tecnológico de Buenos Aires (ITBA)	551-600	Argentina	QSIran University of Science and Technology	551-600	"Iran, Islamic Republic of"	QSJustus-Liebig-University Giessen	551-600	Germany	QSKanazawa University	551-600	Japan	QSKumamoto University	551-600	Japan	QS"Lingnan University, Hong Kong"	551-600	Hong Kong	QSMasaryk University	551-600	Czech Republic	QSMichigan Technological University	551-600	United States	QSNagasaki University	551-600	Japan	QSNational Research Saratov State University	551-600	Russia	QSOsaka City University	551-600	Japan	QSPhilipps-Universität Marburg	551-600	Germany	QSSejong University	551-600	South Korea	QSShandong University	551-600	China	QSSichuan University	551-600	China	QSSouth China University of Technology	551-600	China	QSSouthern Federal University	551-600	Russia	QSTokyo University of Agriculture and Technology	551-600	Japan	QSUmm Al-Qura University	551-600	Saudi Arabia	QSUniversidad de Alcalá	551-600	Spain	QSUniversidad Nacional de La Plata (UNLP)	551-600	Argentina	QSUniversidade Federal de Minas Gerais	551-600	Brazil	QSUniversità degli Studi di Pavia	551-600	Italy	QSUniversity of Turin	551-600	Italy	QSUniversity of Bayreuth	551-600	Germany	QSUniversitat de Valencia	551-600	Spain	QS"Université Lille 1, Sciences et Technologies"	551-600	France	QSUniversité Panthéon-Assas (Paris 2)	551-600	France	QSUniversity of Canberra	551-600	Australia	QSUniversity of Jordan	551-600	Jordan	QSUniversity of Kentucky	551-600	United States	QSUniversity of Manitoba	551-600	Canada	QSUniversity of Mons	551-600	Belgium	QSUniversity of Oregon	551-600	United States	QSUniversity of Science and Technology Beijing	551-600	China	QSUniversity of Tampere	551-600	Finland	QSUniversity of Ulsan	551-600	South Korea	QSUniversity of Vermont	551-600	United States	QSUniversity of Westminster	551-600	United Kingdom	QSVilnius Gediminas Technical University	551-600	Lithuania	QSWestern Sydney University	551-600	Australia	QSAmerican University in Dubai	601-650	United Arab Emirates	QSBrno University of Technology	601-650	Czech Republic	QSCentral Queensland University	601-650	Australia	QSChonnam National University	601-650	South Korea	QSFar Eastern Federal University	601-650	Russia	QSIndiana University–Purdue University Indianapolis	601-650	United States	QSInha University	601-650	South Korea	QSIstanbul Technical University	601-650	Turkey	QSITMO University	601-650	Russia	QSJadavpur University	601-650	India	QSJordan University of Science & Technology	601-650	Jordan	QSKeele University	601-650	United Kingdom	QSLanzhou University	601-650	China	QSLebanese American University	601-650	Lebanon	QSNational Chengchi University	601-650	Taiwan	QSNational Chung Hsing University	601-650	Taiwan	QSNational Taipei University of Technology	601-650	Taiwan	QSThe New School	601-650	United States	QSTallinn University of Technology	601-650	Estonia	QSTU Dortmund University	601-650	Germany	QSThammasat University	601-650	Thailand	QSUniversidad Anahuac	601-650	Mexico	QSUniversidad de Antioquia	601-650	Colombia	QSUniversidad de la Habana	601-650	Cuba	QSUniversity of Salamanca	601-650	Spain	QSUniversidad de San Andrés - UdeSA	601-650	Argentina	QSUniversidad de Sevilla	601-650	Spain	QSUniversidad Iberoamericana IBERO	601-650	Mexico	QSUniversidade de Santiago de Compostela	601-650	Spain	QSUniversität Duisburg-Essen	601-650	Germany	QSUniversité de Sherbrooke	601-650	Canada	QSUniversité Nice Sophia Antipolis	601-650	France	QSUniversiti Teknologi Petronas (Petronas)	601-650	Malaysia	QSUniversity of Bradford	601-650	United Kingdom	QSUniversity of Haifa	601-650	Israel	QSUniversity of Houston	601-650	United States	QSUniversity of Hull	601-650	United Kingdom	QSUniversity of Hyderabad	601-650	India	QSUniversity of Johannesburg	601-650	South Africa	QSUniversity of Kufa	601-650	Iraq	QSUniversity of Massachusetts - Boston	601-650	United States	QS"University of Missouri, Columbia"	601-650	United States	QSUniversity of Portsmouth	601-650	United Kingdom	QSUniversity of South Carolina	601-650	United States	QSUniversity of Tehran	601-650	"Iran, Islamic Republic of"	QSUlster University	601-650	United Kingdom	QSUniversity of Zagreb	601-650	Croatia	QSWarsaw University of Technology	601-650	Poland	QSAjou University	651-700	South Korea	QSAnna University	651-700	India	QSBeijing Foreign Studies University	651-700	China	QSCarleton University	651-700	Canada	QSCharles Darwin University	651-700	Australia	QSClarkson University	651-700	United States	QSDublin Institute of Technology	651-700	Ireland	QSKaraganda State University named after academician E.A.Buketov	651-700	Kazakhstan	QSEötvös Lorànd University	651-700	Hungary	QSGifu University	651-700	Japan	QSHallym University	651-700	South Korea	QSInstituto Politécnico Nacional (IPN)	651-700	Mexico	QSInstituto Tecnológico Autónomo de México (ITAM)	651-700	Mexico	QSKagoshima University	651-700	Japan	QSKazakh-British Technical University	651-700	Kazakhstan	QSKonkuk University	651-700	South Korea	QSKuwait University	651-700	Kuwait	QSLouisiana State University	651-700	United States	QSMissouri University of Science and Technology	651-700	United States	QSNational and Kapodistrian University of Athens	651-700	Greece	QSQuaid-i-Azam University	651-700	Pakistan	QSRiga Technical University	651-700	Latvia	QS"Rutgers - The State University of New Jersey, Newark"	651-700	United States	QSShanghai International Studies University	651-700	China	QSStevens Institute of Technology	651-700	United States	QSTemple University	651-700	United States	QSTokyo Metropolitan University	651-700	Japan	QSUniversidad Adolfo Ibàñez	651-700	Chile	QSUniversidad Católica Andres Bello	651-700	Venezuela	QSUniversidad Central de Venezuela	651-700	Venezuela	QSUniversidad de Concepción	651-700	Chile	QSUniversidad del Pais Vasco	651-700	Spain	QSUniversidad Torcuato Di Tella	651-700	Argentina	QSUniversidade Católica Portuguesa - UCP	651-700	Portugal	QSUniversidade de Brasília	651-700	Brazil	QSUniversidade Federal de São Carlos (UFSCAR)	651-700	Brazil	QSBielefeld University	651-700	Germany	QSUniversity Duesseldorf	651-700	Germany	QSUniversité de Rennes 1	651-700	France	QSUniversity at Albany SUNY	651-700	United States	QSUniversity of Alabama	651-700	United States	QSUniversity of Crete	651-700	Greece	QSUniversity of Debrecen	651-700	Hungary	QSUniversity of Ljubljana	651-700	Slovenia	QSUniversity of Milano-Bicocca	651-700	Italy	QSUniversity of Minho	651-700	Portugal	QSUniversity of Seoul	651-700	South Korea	QSUniversity of Windsor	651-700	Canada	QSVirginia Commonwealth University	651-700	United States	QSWorcester Polytechnic Institute	651-700	United States	QSAin Shams University	701-750	Egypt	QSAirlangga University	701-750	Indonesia	QSBeijing Jiaotong University	701-750	China	QSBeijing University of Technology	701-750	China	QSBournemouth University	701-750	United Kingdom	QSChina Agricultural University	701-750	China	QSClemson University	701-750	United States	QSComenius University in Bratislava	701-750	Slovakia	QSDankook University	701-750	South Korea	QSDe La Salle University	701-750	Philippines	QSHunan University	701-750	China	QSInternational Islamic University Malaysia (IIUM)	701-750	Malaysia	QSKaunas University of Technology	701-750	Lithuania	QSKhazar University	701-750	Azerbaijan	QSKyungpook National University	701-750	South Korea	QSLahore University of Management Sciences (LUMS)	701-750	Pakistan	QSLobachevsky University	701-750	Russia	QSLondon Metropolitan University	701-750	United Kingdom	QSManipal Academy of Higher Education	701-750	India	QSMaynooth University	701-750	Ireland	QSMemorial University of Newfoundland	701-750	Canada	QSMiddlesex University	701-750	United Kingdom	QS"National Technical University ""Kharkiv Polytechnic Institute"""	701-750	Ukraine	QSNiigata University	701-750	Japan	QSOsaka Prefecture University	701-750	Japan	QSPalacký University in Olomouc	701-750	Czech Republic	QSPontificia Universidad Católica de Valparaíso	701-750	Chile	QSRhodes University	701-750	South Africa	QSSmith College	701-750	United States	QS"Sofia University ""St. Kliment Ohridski"""	701-750	Bulgaria	QSSophia University	701-750	Japan	QSSouthern Methodist University	701-750	United States	QSTexas Tech University	701-750	United States	QSTokyo University of Science	701-750	Japan	QSUniversidad de la República (UdelaR)	701-750	Uruguay	QSUniversidad San Francisco de Quito (USFQ)	701-750	Ecuador	QSUniversidad Nacional de Córdoba - UNC	701-750	Argentina	QSCa' Foscari University of Venice	701-750	Italy	QSUniversity of Genoa	701-750	Italy	QSUniversity of Modena and Reggio Emilia	701-750	Italy	QSUniversity of Trieste	701-750	Italy	QSUniversiti Utara Malaysia (UUM)	701-750	Malaysia	QSUniversity of Brighton	701-750	United Kingdom	QSUniversity of Bucharest	701-750	Romania	QSUniversity of Central Florida	701-750	United States	QSUniversity of Denver	701-750	United States	QSUniversity of Dhaka	701-750	Bangladesh	QSUniversity of Kwazulu-Natal	701-750	South Africa	QSUniversity of Latvia	701-750	Latvia	QSUniversity of Patras	701-750	Greece	QSPlymouth University	701-750	United Kingdom	QSUniversity of Sharjah	701-750	United Arab Emirates	QSUniversity of Wyoming	701-750	United States	QSVictoria University	701-750	Australia	QSAbu Dhabi University	751-800	United Arab Emirates	QSAlexandria University	751-800	Egypt	QSAl-Imam Mohammad Ibn Saud Islamic University	751-800	Saudi Arabia	QSAlpen-Adria-Universitaet Klagenfurt	751-800	Austria	QSBelarusian National Technical University (BNTU)	751-800	Belarus	QSBogor Agricultural University	751-800	Indonesia	QSBrigham Young University	751-800	United States	QSBudapest University of Technology and Economics	751-800	Hungary	QSEdith Cowan University	751-800	Australia	QSFlorida International University	751-800	United States	QSGeorgia State University	751-800	United States	QSGunma University	751-800	Japan	QSHacettepe University	751-800	Turkey	QSKansas State University	751-800	United States	QSKasetsart University	751-800	Thailand	QSKing Faisal University	751-800	Saudi Arabia	QSLoyola University Chicago	751-800	United States	QSNagoya Institute of Technology (NIT)	751-800	Japan	QSNorthumbria University at Newcastle	751-800	United Kingdom	QSParis Lodron University of Salzburg	751-800	Austria	QSUniversidad Autónoma Metropolitana (UAM)	751-800	Mexico	QSUniversidad de La Sabana	751-800	Colombia	QSUniversidad Diego Portales (UDP)	751-800	Chile	QSUniversidad Simón Bolívar (USB)	751-800	Venezuela	QSUniversidade Federal de Santa Catarina	751-800	Brazil	QSUniversita' degli Studi di Ferrara	751-800	Italy	QSUniversità degli Studi di Perugia	751-800	Italy	QSUniversità degli studi Roma Tre	751-800	Italy	QSUniversity of Lorraine	751-800	France	QSUniversité de Nantes	751-800	France	QSUniversité Lumière Lyon 2	751-800	France	QSUniversité Toulouse 1 Capitole	751-800	France	QSUniversiti Teknologi MARA - UiTM	751-800	Malaysia	QSUniversity of Brescia	751-800	Italy	QSUniversity of Calcutta	751-800	India	QSUniversity of Colombo	751-800	Sri Lanka	QSUniversity of Hertfordshire	751-800	United Kingdom	QSUniversity of Huddersfield	751-800	United Kingdom	QSUniversity of New Hampshire	751-800	United States	QSUniversity of Pécs	751-800	Hungary	QSUniversity of Salford	751-800	United Kingdom	QSUniversity of Southern Queensland	751-800	Australia	QSUniversity of Tulsa	751-800	United States	QSYamaguchi University	751-800	Japan	QSYeungnam University	751-800	South Korea	QSYokohama National University	751-800	Japan	QS"Adam Mickiewicz University, Poznań"	801-1000	Poland	QSAGH University of Science and Technology	801-1000	Poland	QSAl Azhar University	801-1000	Egypt	QSAlexandru Ioan Cuza University	801-1000	Romania	QS"Aligarh Muslim University (AMU), Aligarh"	801-1000	India	QSAnkara Üniversitesi	801-1000	Turkey	QSAoyama Gakuin University	801-1000	Japan	QSAthens University of Economics and Business	801-1000	Greece	QSAuburn University	801-1000	United States	QSAustralian Catholic University	801-1000	Australia	QSBabes-Bolyai University	801-1000	Romania	QSBaku State University	801-1000	Azerbaijan	QSBanaras Hindu University	801-1000	India	QSBaylor University	801-1000	United States	QSBenemérita Universidad Autónoma de Puebla	801-1000	Mexico	QSBinghamton University SUNY	801-1000	United States	QS"Birla Institute of Technology and Science, Pilani"	801-1000	India	QSBirzeit university	801-1000	"Palestinian Territory, Occupied"	QSCentral South University	801-1000	China	QSCharles Sturt University	801-1000	Australia	QSChongqing University	801-1000	China	QSChungnam National University	801-1000	South Korea	QSCorvinus University of Budapest	801-1000	Hungary	QSCukurova University	801-1000	Turkey	QSDiponegoro University	801-1000	Indonesia	QSVasyl` Stus Donetsk National University	801-1000	Ukraine	QSDoshisha University	801-1000	Japan	QSEdinburgh Napier University	801-1000	United Kingdom	QSFeng Chia University	801-1000	Taiwan	QSFordham University	801-1000	United States	QSFu Jen Catholic University	801-1000	Taiwan	QSGazi Üniversitesi	801-1000	Turkey	QSGeorge Mason University	801-1000	United States	QSIstanbul University	801-1000	Turkey	QSKazakh Ablai Khan University of International Relations and World Languages	801-1000	Kazakhstan	QSKent State University	801-1000	United States	QSKhon Kaen University	801-1000	Thailand	QSKing Mongkut's University of Technology Thonburi	801-1000	Thailand	QSKyushu Institute of Technology	801-1000	Japan	QSUniversity of Lodz	801-1000	Poland	QSLondon South Bank University	801-1000	United Kingdom	QSMakerere University	801-1000	Uganda	QSManchester Metropolitan University	801-1000	United Kingdom	QSMarquette University	801-1000	United States	QSMeiji University	801-1000	Japan	QSMiami University	801-1000	United States	QSNew Jersey Institute of Technology (NJIT)	801-1000	United States	QSNicolaus Copernicus University	801-1000	Poland	QSNorth-West University	801-1000	South Africa	QSNottingham Trent University	801-1000	United Kingdom	QSNovosibirsk State Technical University	801-1000	Russia	QSOchanomizu University	801-1000	Japan	QSOhio University	801-1000	United States	QSOklahoma State University	801-1000	United States	QSPanjab University	801-1000	India	QSPlekhanov Russian University of Economics	801-1000	Russia	QSPontificia Universidad Católica del Ecuador (PUCE)	801-1000	Ecuador	QSPontifícia Universidade Católica do Rio Grande do Sul (PUCRS)	801-1000	Brazil	QSPrince of Songkla University	801-1000	Thailand	QSRitsumeikan University	801-1000	Japan	QSRyerson University	801-1000	Canada	QSSaitama University	801-1000	Japan	QSSamara National Research University (Samara University)	801-1000	Russia	QSSan Diego State University	801-1000	United States	QSSeoul National University of Science and Technology	801-1000	South Korea	QSInstitute of Technology Sepuluh Nopember	801-1000	Indonesia	QSShahid Beheshti University (SBU)	801-1000	"Iran, Islamic Republic of"	QSShinshu University	801-1000	Japan	QSSouthern Cross University	801-1000	Australia	QSSumy State University	801-1000	Ukraine	QSRobert Gordon University	801-1000	United Kingdom	QSTokai University	801-1000	Japan	QSUniversidad Austral de Chile	801-1000	Chile	QSUniversidad Autónoma de Nuevo León	801-1000	Mexico	QSUniversidad Autónoma del Estado de México (UAEMex)	801-1000	Mexico	QSUniversidad de Castilla-La Mancha	801-1000	Spain	QSUniversidad de Guadalajara (UDG)	801-1000	Mexico	QSUniversidad de las Américas Puebla (UDLAP)	801-1000	Mexico	QSUniversidad de los Andes - (ULA) Mérida	801-1000	Venezuela	QSUniversidad de Monterrey (UDEM)	801-1000	Mexico	QSUniversity of Murcia	801-1000	Spain	QSUniversidad de Oviedo	801-1000	Spain	QSUniversidad de Puerto Rico	801-1000	Puerto Rico	QSUniversidad de Talca	801-1000	Chile	QSUniversidad de Valparaíso (UV)	801-1000	Chile	QSUniversidad del Norte	801-1000	Colombia	QSUniversidad del Rosario	801-1000	Colombia	QSUniversidad del Valle	801-1000	Colombia	QSUniversidad Industrial de Santander - UIS	801-1000	Colombia	QSUniversidad Metropolitana	801-1000	Venezuela	QSUniversidad Nacional Costa Rica	801-1000	Costa Rica	QSUniversidad Nacional de Cuyo	801-1000	Argentina	QSUniversidad Nacional de Mar del Plata	801-1000	Argentina	QSUniversidad Nacional de Rosario (UNR)	801-1000	Argentina	QSUniversidad Nacional de Tucumà¡n	801-1000	Argentina	QSUniversidad Nacional del Sur	801-1000	Argentina	QSUniversidad Nacional Mayor de San Marcos	801-1000	Peru	QSUniversidad Panamericana (UP)	801-1000	Mexico	QSUniversidad Peruana Cayetano Heredia (UPCH)	801-1000	Peru	QSUniversidad Rey Juan Carlos	801-1000	Spain	QSUniversidad Técnica Federico Santa María (USM)	801-1000	Chile	QSUniversidad Tecnológica Nacional (UTN)	801-1000	Argentina	QSUniversidade da Coruña	801-1000	Spain	QSUniversidade do Estado do Rio de Janeiro (UERJ)	801-1000	Brazil	QSUniversidade Estadual de Londrina	801-1000	Brazil	QSUniversidade Federal da Bahia	801-1000	Brazil	QSUniversidade Federal de Santa Maria	801-1000	Brazil	QSUniversidade Federal de Viçosa (UFV)	801-1000	Brazil	QSUniversidade Federal do Ceará (UFC)	801-1000	Brazil	QSUniversidade Federal do Paraná - UFPR	801-1000	Brazil	QSUniversidade Federal de Pernambuco (UFPE)	801-1000	Brazil	QSUniversidade Federal Fluminense	801-1000	Brazil	QSCatania University	801-1000	Italy	QSUniversity of Siena	801-1000	Italy	QSUniversity of Palermo	801-1000	Italy	QSUniversitas Muhammadiyah Surakarta	801-1000	Indonesia	QSUniversität Rostock	801-1000	Germany	QSUniversité Charles-de-Gaulle Lille 3	801-1000	France	QSUniversité de Caen Basse-Normandie	801-1000	France	QSUniversité de Cergy-Pontoise	801-1000	France	QSUniversité de Poitiers	801-1000	France	QSUniversité Jean Moulin Lyon 3	801-1000	France	QSUniversité Lille 2 Droit et Santé	801-1000	France	QSUniversité Mohammed V de Rabat	801-1000	Morocco	QSUniversité Paris Ouest Nanterre La Défense	801-1000	France	QSUniversit Paul-Valery Montpellier 3	801-1000	France	QSUniversity of Arkansas	801-1000	United States	QSUniversity of Bahrain	801-1000	Bahrain	QSUniversity of Bari	801-1000	Italy	QSUniversity of Belgrade	801-1000	Serbia	QSUniversity of Brawijaya	801-1000	Indonesia	QSUniversity of Central Lancashire	801-1000	United Kingdom	QSUniversity of East London	801-1000	United Kingdom	QSUniversity of Engineering & Technology (UET) Lahore	801-1000	Pakistan	QSUniversity of Ghana	801-1000	Ghana	QSUniversity of Greenwich	801-1000	United Kingdom	QSUniversity of Karachi	801-1000	Pakistan	QSThe University of Lahore	801-1000	Pakistan	QSUniversity of Maribor	801-1000	Slovenia	QSUniversity of Mississippi	801-1000	United States	QSUniversity of Montana Missoula	801-1000	United States	QSUniversity of Mumbai	801-1000	India	QSUniversity of Nairobi	801-1000	Kenya	QSUniversity of New England Australia	801-1000	Australia	QSSavitribai Phule Pune University	801-1000	India	QSUniversity of San Diego	801-1000	United States	QSUniversity of San Francisco	801-1000	United States	QSUniversity of Santo Tomas	801-1000	Philippines	QSUniversity of the Pacific	801-1000	United States	QSUniversity of the Sunshine Coast	801-1000	Australia	QSUniversity of the Western Cape	801-1000	South Africa	QSUniversity of Wroclaw	801-1000	Poland	QSUniversité de Toulouse II-Le Mirail	801-1000	France	QSUtah State University	801-1000	United States	QSVerona University	801-1000	Italy	QSVoronezh State University	801-1000	Russia	QSVytautas Magnus University	801-1000	Lithuania	QSUniversitatea de Vest din Timisoara / West University of Timisoara	801-1000	Romania	QSWroclaw University of Technology	801-1000	Poland	QS
+﻿University_name,Ranking,Country,Source
+Harvard University,#1,United States,USNEWS
+Massachusetts Institute of Technology,#2,United States,USNEWS
+Stanford University,#3,United States,USNEWS
+University of California--Berkeley,#4,United States,USNEWS
+University of Oxford,#5,United Kingdom,USNEWS
+California Institute of Technology,#6,United States,USNEWS
+Columbia University,#7,United States,USNEWS
+Princeton University,#8,United States,USNEWS
+University of Cambridge,#9,United Kingdom,USNEWS
+University of Washington,#10,United States,USNEWS
+Johns Hopkins University,#11,United States,USNEWS
+Yale University,#12,United States,USNEWS
+University of Chicago,#13,United States,USNEWS
+University of California--Los Angeles,#14,United States,USNEWS
+University of California--San Francisco,#15,United States,USNEWS
+University of Pennsylvania,#16,United States,USNEWS
+University of Michigan--Ann Arbor,#17,United States,USNEWS
+University of Toronto,#18,Canada,USNEWS
+University of California--San Diego,#19,United States,USNEWS
+Imperial College London,#20,United Kingdom,USNEWS
+University College London,#21,United Kingdom,USNEWS
+Duke University,#22,United States,USNEWS
+Cornell University,#23,United States,USNEWS
+Northwestern University,#24,United States,USNEWS
+Swiss Federal Institute of Technology Zurich,#25,Switzerland,USNEWS
+University of Melbourne,#26,Australia,USNEWS
+University of Sydney,#27,Australia,USNEWS
+New York University,"#28
+Tie",United States,USNEWS
+University of Edinburgh,"#28
+Tie",United Kingdom,USNEWS
+University of British Columbia,#30,Canada,USNEWS
+Washington University in St. Louis,#31,United States,USNEWS
+University of Copenhagen,#32,Denmark,USNEWS
+University of North Carolina--Chapel Hill,#33,United States,USNEWS
+National University of Singapore,"#34
+Tie",Singapore,USNEWS
+University of Texas--Austin,"#34
+Tie",United States,USNEWS
+Tsinghua University,#36,China,USNEWS
+King's College London,"#37
+Tie",United Kingdom,USNEWS
+Sorbonne Universite,"#37
+Tie",France,USNEWS
+University of Wisconsin--Madison,"#37
+Tie",United States,USNEWS
+University of Amsterdam,#40,Netherlands,USNEWS
+University of California--Santa Barbara,#41,United States,USNEWS
+University of Queensland Australia,#42,Australia,USNEWS
+Nanyang Technological University,"#43
+Tie",Singapore,USNEWS
+University of Munich,"#43
+Tie",Germany,USNEWS
+École Polytechnique Federale of Lausanne,"#45
+Tie",Switzerland,USNEWS
+Ohio State University--Columbus,"#45
+Tie",United States,USNEWS
+University of Minnesota--Twin Cities,"#47
+Tie",United States,USNEWS
+University of Pittsburgh,"#47
+Tie",United States,USNEWS
+McGill University,#49,Canada,USNEWS
+University of Colorado--Boulder,#50,United States,USNEWS
+Boston University,"#51
+Tie",United States,USNEWS
+Karolinska Institute,"#51
+Tie",Sweden,USNEWS
+King Abdulaziz University,"#51
+Tie",Saudi Arabia,USNEWS
+University of Maryland--College Park,"#51
+Tie",United States,USNEWS
+Utrecht University,#55,Netherlands,USNEWS
+Catholic University of Leuven,"#56
+Tie",Belgium,USNEWS
+Heidelberg University,"#56
+Tie",Germany,USNEWS
+University of Zurich,#58,Switzerland,USNEWS
+Monash University,"#59
+Tie",Australia,USNEWS
+Peking University,"#59
+Tie",China,USNEWS
+University of Illinois--Urbana-Champaign,"#59
+Tie",United States,USNEWS
+Georgia Institute of Technology,"#62
+Tie",United States,USNEWS
+Rockefeller University,"#62
+Tie",United States,USNEWS
+University of California--Davis,"#64
+Tie",United States,USNEWS
+University of Manchester,"#64
+Tie",United Kingdom,USNEWS
+University of New South Wales,"#64
+Tie",Australia,USNEWS
+Icahn School of Medicine at Mount Sinai,"#67
+Tie",United States,USNEWS
+Universite Sorbonne Paris Cite-USPC (ComUE),"#67
+Tie",France,USNEWS
+Australian National University,"#69
+Tie",Australia,USNEWS
+University of Southern California,"#69
+Tie",United States,USNEWS
+Emory University,#71,United States,USNEWS
+Pennsylvania State University--University Park,"#72
+Tie",United States,USNEWS
+Vanderbilt University,"#72
+Tie",United States,USNEWS
+Erasmus University Rotterdam,"#74
+Tie",Netherlands,USNEWS
+University of Tokyo,"#74
+Tie",Japan,USNEWS
+University of California--Santa Cruz,#76,United States,USNEWS
+Technical University of Munich,#77,Germany,USNEWS
+University of California--Irvine,#78,United States,USNEWS
+Wageningen University and Research Center,#79,Netherlands,USNEWS
+University of Adelaide,#80,Australia,USNEWS
+University of Bristol,#81,United Kingdom,USNEWS
+Carnegie Mellon University,"#82
+Tie",United States,USNEWS
+PSL Research University Paris (ComUE),"#82
+Tie",France,USNEWS
+VU University Amsterdam,"#82
+Tie",Netherlands,USNEWS
+University of Arizona,#85,United States,USNEWS
+University of Western Australia,#86,Australia,USNEWS
+Ghent University,"#87
+Tie",Belgium,USNEWS
+University of Helsinki,"#87
+Tie",Finland,USNEWS
+Leiden University,"#89
+Tie",Netherlands,USNEWS
+University of Glasgow,"#89
+Tie",United Kingdom,USNEWS
+Humboldt-Universität zu Berlin,"#91
+Tie",Germany,USNEWS
+Lund University,"#91
+Tie",Sweden,USNEWS
+University of Oslo,"#91
+Tie",Norway,USNEWS
+University of Geneva,"#94
+Tie",Switzerland,USNEWS
+University of Southampton,"#94
+Tie",United Kingdom,USNEWS
+University of Birmingham,"#96
+Tie",United Kingdom,USNEWS
+University of Groningen,"#96
+Tie",Netherlands,USNEWS
+University of Barcelona,#98,Spain,USNEWS
+Weizmann Institute of Science,#99,Israel,USNEWS
+University of Hong Kong,#100,Hong Kong,USNEWS
+Michigan State University,#101,United States,USNEWS
+Brown University,"#102
+Tie",United States,USNEWS
+Uppsala University,"#102
+Tie",Sweden,USNEWS
+Radboud University Nijmegen,#104,Netherlands,USNEWS
+"Rutgers, The State University of New Jersey--New Brunswick","#105
+Tie",United States,USNEWS
+University of Florida,"#105
+Tie",United States,USNEWS
+University of Virginia,#107,United States,USNEWS
+Aarhus University,"#108
+Tie",Denmark,USNEWS
+London School of Hygiene & Tropical Medicine,"#108
+Tie",United Kingdom,USNEWS
+Rice University,"#108
+Tie",United States,USNEWS
+University of Bonn,"#108
+Tie",Germany,USNEWS
+University of Bern,#112,Switzerland,USNEWS
+Chinese University Hong Kong,#113,Hong Kong,USNEWS
+Purdue University--West Lafayette,"#114
+Tie",United States,USNEWS
+Stockholm University,"#114
+Tie",Sweden,USNEWS
+University of Bologna,"#116
+Tie",Italy,USNEWS
+University of Padua,"#116
+Tie",Italy,USNEWS
+Université Paris-Sud,#118,France,USNEWS
+"Queen Mary, University of London","#119
+Tie",United Kingdom,USNEWS
+Sapienza University of Rome,"#119
+Tie",Italy,USNEWS
+University of Cape Town,#121,South Africa,USNEWS
+Freie Universität Berlin,"#122
+Tie",Germany,USNEWS
+Hong Kong University of Science and Technology,"#122
+Tie",Hong Kong,USNEWS
+Kyoto University,#124,Japan,USNEWS
+University of Rochester,#125,United States,USNEWS
+McMaster University,#126,Canada,USNEWS
+University of Warwick,#127,United Kingdom,USNEWS
+Seoul National University,"#128
+Tie",South Korea,USNEWS
+Universidade de São Paulo,"#128
+Tie",Brazil,USNEWS
+University of Basel,"#128
+Tie",Switzerland,USNEWS
+University of Science and Technology of China,"#128
+Tie",China,USNEWS
+Baylor College of Medicine,"#132
+Tie",United States,USNEWS
+University of Sheffield,"#132
+Tie",United Kingdom,USNEWS
+Texas A&M University--College Station,"#134
+Tie",United States,USNEWS
+University of Auckland,"#134
+Tie",New Zealand,USNEWS
+Indiana University--Bloomington,"#136
+Tie",United States,USNEWS
+Shanghai Jiao Tong University,"#136
+Tie",China,USNEWS
+University of Massachusetts--Amherst,"#136
+Tie",United States,USNEWS
+Universite de Lyon (ComUE),"#139
+Tie",France,USNEWS
+University Catholique of Louvain,"#139
+Tie",Belgium,USNEWS
+University of Alberta,"#139
+Tie",Canada,USNEWS
+University of Montreal,"#139
+Tie",Canada,USNEWS
+University of Utah,"#139
+Tie",United States,USNEWS
+Communaute Universite Grenoble Alpes,#144,France,USNEWS
+University of Hamburg,#145,Germany,USNEWS
+Arizona State University--Tempe,"#146
+Tie",United States,USNEWS
+University of Texas Southwestern Medical Center--Dallas,"#146
+Tie",United States,USNEWS
+Technical University of Denmark,#148,Denmark,USNEWS
+University of California--Riverside,"#149
+Tie",United States,USNEWS
+University of Liverpool,"#149
+Tie",United Kingdom,USNEWS
+University of Gothenburg,#151,Sweden,USNEWS
+King Abdullah University of Science & Technology,"#152
+Tie",Saudi Arabia,USNEWS
+Oregon Health & Science University,"#152
+Tie",United States,USNEWS
+University of Nottingham,"#152
+Tie",United Kingdom,USNEWS
+Case Western Reserve University,"#155
+Tie",United States,USNEWS
+University of Milan,"#155
+Tie",Italy,USNEWS
+Zhejiang University,#157,China,USNEWS
+University of Freiburg,"#158
+Tie",Germany,USNEWS
+University of Leeds,"#158
+Tie",United Kingdom,USNEWS
+University of Göttingen,#160,Germany,USNEWS
+Autonomous University of Barcelona,"#161
+Tie",Spain,USNEWS
+University of Exeter,"#161
+Tie",United Kingdom,USNEWS
+University of Iowa,"#161
+Tie",United States,USNEWS
+International School for Advanced Studies,"#164
+Tie",Italy,USNEWS
+University of Aix-Marseille,"#164
+Tie",France,USNEWS
+University of Bergen,"#164
+Tie",Norway,USNEWS
+University of Sussex,"#164
+Tie",United Kingdom,USNEWS
+Cardiff University,"#168
+Tie",United Kingdom,USNEWS
+"Eberhard Karls University, Tübingen","#168
+Tie",Germany,USNEWS
+Nanjing University,"#168
+Tie",China,USNEWS
+Fudan University,"#171
+Tie",China,USNEWS
+Stony Brook University--SUNY,"#171
+Tie",United States,USNEWS
+City University Hong Kong,"#173
+Tie",Hong Kong,USNEWS
+Delft University of Technology,"#173
+Tie",Netherlands,USNEWS
+Pompeu Fabra University,"#175
+Tie",Spain,USNEWS
+Universite Federale Toulouse Midi-Pyrenees (ComUE),"#175
+Tie",France,USNEWS
+University of Alabama--Birmingham,"#175
+Tie",United States,USNEWS
+University of Calgary,#178,Canada,USNEWS
+RWTH Aachen University,#179,Germany,USNEWS
+Newcastle University,#180,United Kingdom,USNEWS
+Karlsruhe Institute of Technology,#181,Germany,USNEWS
+Technical University of Dresden,#182,Germany,USNEWS
+Autonomous University of Madrid,"#183
+Tie",Spain,USNEWS
+Tel Aviv University,"#183
+Tie",Israel,USNEWS
+University of Lausanne,"#183
+Tie",Switzerland,USNEWS
+Aalto University,"#186
+Tie",Finland,USNEWS
+Boğaziçi University,"#186
+Tie",Turkey,USNEWS
+National Taiwan University,"#186
+Tie",Taiwan,USNEWS
+University of Pisa,"#186
+Tie",Italy,USNEWS
+Curtin University of Technology,"#190
+Tie",Australia,USNEWS
+Florida State University,"#190
+Tie",United States,USNEWS
+Languedoc-Roussillon Universites (ComUE),"#190
+Tie",France,USNEWS
+Tufts University,"#190
+Tie",United States,USNEWS
+Université Libre de Bruxelles,"#190
+Tie",Belgium,USNEWS
+Sungkyunkwan University,#195,South Korea,USNEWS
+Maastricht University,"#196
+Tie",Netherlands,USNEWS
+University of Cincinnati,"#196
+Tie",United States,USNEWS
+University of Ottawa,"#198
+Tie",Canada,USNEWS
+University of Technology Sydney,"#198
+Tie",Australia,USNEWS
+Hong Kong Polytechnic University,"#200
+Tie",Hong Kong,USNEWS
+Northeastern University,"#200
+Tie",United States,USNEWS
+University of Vienna,"#200
+Tie",Austria,USNEWS
+University of Witwatersrand,"#200
+Tie",South Africa,USNEWS
+Scuola Normale Superiore di Pisa,"#204
+Tie",Italy,USNEWS
+University of Naples Federico II,"#204
+Tie",Italy,USNEWS
+University of Würzburg,"#204
+Tie",Germany,USNEWS
+Royal Institute of Technology,#207,Sweden,USNEWS
+Johannes Gutenberg University of Mainz,"#208
+Tie",Germany,USNEWS
+Sun Yat-sen University,"#208
+Tie",China,USNEWS
+Charles University in Prague,"#210
+Tie",Czech Republic,USNEWS
+Durham University,"#210
+Tie",United Kingdom,USNEWS
+Lancaster University,"#210
+Tie",United Kingdom,USNEWS
+Johann Wolfgang Goethe University Frankfurt am Main,#213,Germany,USNEWS
+Dartmouth College,"#214
+Tie",United States,USNEWS
+University of Antwerp,"#214
+Tie",Belgium,USNEWS
+University of Lisbon,"#214
+Tie",Portugal,USNEWS
+University of Illinois--Chicago,"#217
+Tie",United States,USNEWS
+University of Tennessee,"#217
+Tie",United States,USNEWS
+University of Waterloo,"#217
+Tie",Canada,USNEWS
+Iowa State University,"#220
+Tie",United States,USNEWS
+University of Oregon,"#220
+Tie",United States,USNEWS
+Hebrew University of Jerusalem,#222,Israel,USNEWS
+University of Notre Dame,#223,United States,USNEWS
+Queensland University of Technology,"#224
+Tie",Australia,USNEWS
+University of Rome Tor Vergata,"#224
+Tie",Italy,USNEWS
+University of Strasbourg,#226,France,USNEWS
+Macquarie University,"#227
+Tie",Australia,USNEWS
+University College Dublin,"#227
+Tie",Ireland,USNEWS
+University of Aberdeen,"#227
+Tie",United Kingdom,USNEWS
+University of Florence,"#227
+Tie",Italy,USNEWS
+University of Turin,"#227
+Tie",Italy,USNEWS
+Medical University of Vienna,"#232
+Tie",Austria,USNEWS
+North Carolina State University--Raleigh,"#232
+Tie",United States,USNEWS
+University of Malaya,"#232
+Tie",Malaysia,USNEWS
+University of Leicester,"#235
+Tie",United Kingdom,USNEWS
+University of Miami,"#235
+Tie",United States,USNEWS
+University of Otago,"#237
+Tie",New Zealand,USNEWS
+University of Trento,"#237
+Tie",Italy,USNEWS
+University of Valencia,"#237
+Tie",Spain,USNEWS
+Trinity College Dublin,"#240
+Tie",Ireland,USNEWS
+University of Erlangen Nuremberg,"#240
+Tie",Germany,USNEWS
+Griffith University,"#242
+Tie",Australia,USNEWS
+Osaka University,"#242
+Tie",Japan,USNEWS
+Aalborg University,#244,Denmark,USNEWS
+Huazhong University of Science and Technology,"#245
+Tie",China,USNEWS
+University of Cologne,"#245
+Tie",Germany,USNEWS
+Deakin University,"#247
+Tie",Australia,USNEWS
+University of Wollongong,"#247
+Tie",Australia,USNEWS
+Harbin Institute of Technology,#249,China,USNEWS
+Brandeis University,"#250
+Tie",United States,USNEWS
+University of Pavia,"#250
+Tie",Italy,USNEWS
+Korea Advanced Institute of Science and Technology,#252,South Korea,USNEWS
+University of New Mexico,"#253
+Tie",United States,USNEWS
+Virginia Tech,"#253
+Tie",United States,USNEWS
+George Washington University,"#255
+Tie",United States,USNEWS
+Tohoku University,"#255
+Tie",Japan,USNEWS
+University of Maryland--Baltimore,#257,United States,USNEWS
+Technion Israel Institute of Technology,#258,Israel,USNEWS
+Free University of Brussels,"#259
+Tie",Belgium,USNEWS
+London School of Economics and Political Science,"#259
+Tie",United Kingdom,USNEWS
+University of York,"#259
+Tie",United Kingdom,USNEWS
+National and Kapodistrian University of Athens,"#262
+Tie",Greece,USNEWS
+University of Kiel,"#262
+Tie",Germany,USNEWS
+University of Victoria,"#262
+Tie",Canada,USNEWS
+Yeshiva University,"#262
+Tie",United States,USNEWS
+Colorado State University,"#266
+Tie",United States,USNEWS
+M. V. Lomonosov Moscow State University,"#266
+Tie",Russia,USNEWS
+Oregon State University,"#266
+Tie",United States,USNEWS
+University at Buffalo--SUNY,"#266
+Tie",United States,USNEWS
+University of St. Andrews,"#266
+Tie",United Kingdom,USNEWS
+James Cook University,"#271
+Tie",Australia,USNEWS
+Korea University,"#271
+Tie",South Korea,USNEWS
+University of Texas--Dallas,#273,United States,USNEWS
+Universite Paris Saclay,"#274
+Tie",France,USNEWS
+University of Newcastle,"#274
+Tie",Australia,USNEWS
+University of Milan - Bicocca,"#276
+Tie",Italy,USNEWS
+University of Münster,"#276
+Tie",Germany,USNEWS
+Western University,"#276
+Tie",Canada,USNEWS
+Tongji University,"#279
+Tie",China,USNEWS
+University of Kansas,"#279
+Tie",United States,USNEWS
+University of Western Sydney,"#279
+Tie",Australia,USNEWS
+University of Trieste,#282,Italy,USNEWS
+Communaute d'Universites et Etablissements d'Aquitaine (ComUE),"#283
+Tie",France,USNEWS
+Norwegian University of Science and Technology,"#283
+Tie",Norway,USNEWS
+Wuhan University,#285,China,USNEWS
+University of Genoa,"#286
+Tie",Italy,USNEWS
+University of Warsaw,"#286
+Tie",Poland,USNEWS
+Universite Lille-Nord-de-France (ComUE),"#288
+Tie",France,USNEWS
+University of Porto,"#288
+Tie",Portugal,USNEWS
+Nagoya University,"#290
+Tie",Japan,USNEWS
+Pontificia University Católica de Chile,"#290
+Tie",Chile,USNEWS
+Simon Fraser University,"#290
+Tie",Canada,USNEWS
+University of East Anglia,"#290
+Tie",United Kingdom,USNEWS
+University of Georgia,"#290
+Tie",United States,USNEWS
+University of Nebraska--Lincoln,"#290
+Tie",United States,USNEWS
+University of Perugia,"#290
+Tie",Italy,USNEWS
+Washington State University,"#290
+Tie",United States,USNEWS
+Georgetown University,"#298
+Tie",United States,USNEWS
+University at Albany--SUNY,"#298
+Tie",United States,USNEWS
+University of Duisburg-Essen,"#298
+Tie",Germany,USNEWS
+École Polytechnique,"#301
+Tie",France,USNEWS
+University of Dundee,"#301
+Tie",United Kingdom,USNEWS
+Polytechnic University of Milan,"#303
+Tie",Italy,USNEWS
+University of Southern Denmark,"#303
+Tie",Denmark,USNEWS
+State University of Campinas,"#305
+Tie",Brazil,USNEWS
+Tokyo Institute of Technology,"#305
+Tie",Japan,USNEWS
+University of South Carolina–Columbia,"#305
+Tie",United States,USNEWS
+University of Ulm,#307,Germany,USNEWS
+Umeå University,#308,Sweden,USNEWS
+Wayne State University,#309,United States,USNEWS
+University of South Florida,#310,United States,USNEWS
+Southeast University,"#311
+Tie",China,USNEWS
+University of Delaware,"#311
+Tie",United States,USNEWS
+University of Granada,"#311
+Tie",Spain,USNEWS
+University of Reading,"#311
+Tie",United Kingdom,USNEWS
+Indiana University-Purdue University--Indianapolis,"#315
+Tie",United States,USNEWS
+Laval University,"#315
+Tie",Canada,USNEWS
+RMIT University,"#315
+Tie",Australia,USNEWS
+University of Canterbury,#318,New Zealand,USNEWS
+Temple University,"#319
+Tie",United States,USNEWS
+University of Innsbruck,"#319
+Tie",Austria,USNEWS
+University of Tasmania,"#319
+Tie",Australia,USNEWS
+Dalhousie University,"#322
+Tie",Canada,USNEWS
+Ivane Javakhishvili Tbilisi State University,"#322
+Tie",Georgia,USNEWS
+Queen's University Belfast,"#322
+Tie",United Kingdom,USNEWS
+University of Tartu,"#322
+Tie",Estonia,USNEWS
+Kyushu University,"#325
+Tie",Japan,USNEWS
+Technical University of Berlin,"#325
+Tie",Germany,USNEWS
+Texas A&M University at Qatar,"#325
+Tie",Qatar,USNEWS
+University of Connecticut,"#325
+Tie",United States,USNEWS
+Stellenbosch University,"#329
+Tie",South Africa,USNEWS
+Yonsei University,"#329
+Tie",South Korea,USNEWS
+Vienna University of Technology,#331,Austria,USNEWS
+Beijing Normal University,"#332
+Tie",China,USNEWS
+King Saud University,"#332
+Tie",Saudi Arabia,USNEWS
+Xiamen University,"#332
+Tie",China,USNEWS
+Pohang University of Science and Technology,#335,South Korea,USNEWS
+Linköping University,"#336
+Tie",Sweden,USNEWS
+South China University of Technology,"#336
+Tie",China,USNEWS
+Eindhoven University of Technology,"#338
+Tie",Netherlands,USNEWS
+Hunan University,"#338
+Tie",China,USNEWS
+University of Colorado--Denver,"#338
+Tie",United States,USNEWS
+University of KwaZulu Natal,"#338
+Tie",South Africa,USNEWS
+University of Savoie,"#338
+Tie",France,USNEWS
+Jagiellonian University,"#343
+Tie",Poland,USNEWS
+University of Turku,"#343
+Tie",Finland,USNEWS
+Xi'an Jiaotong University,"#343
+Tie",China,USNEWS
+Belarusian State University,"#346
+Tie",Belarus,USNEWS
+Federal University of Rio de Janeiro,"#346
+Tie",Brazil,USNEWS
+Syracuse University,"#346
+Tie",United States,USNEWS
+Aristotle University of Thessaloniki,"#349
+Tie",Greece,USNEWS
+Swedish University of Agricultural Sciences,"#349
+Tie",Sweden,USNEWS
+University of Kentucky,"#349
+Tie",United States,USNEWS
+Vita-Salute San Raffaele University,"#349
+Tie",Italy,USNEWS
+Baylor University,"#353
+Tie",United States,USNEWS
+University of Leipzig,"#353
+Tie",Germany,USNEWS
+Complutense University of Madrid,"#355
+Tie",Spain,USNEWS
+Ruhr University Bochum,"#355
+Tie",Germany,USNEWS
+University of Siena,#357,Italy,USNEWS
+Heinrich Heine University of Dusseldorf,"#358
+Tie",Germany,USNEWS
+National Tsing Hua University,"#358
+Tie",Taiwan,USNEWS
+"Royal Holloway, University of London (RHUL)","#358
+Tie",United Kingdom,USNEWS
+Swinburne University of Technology,"#358
+Tie",Australia,USNEWS
+Ulsan National Institute of Science & Technology,"#358
+Tie",South Korea,USNEWS
+University of Liège,"#358
+Tie",Belgium,USNEWS
+Beihang University,"#364
+Tie",China,USNEWS
+University of Mississippi,"#364
+Tie",United States,USNEWS
+Friedrich Schiller University of Jena,"#366
+Tie",Germany,USNEWS
+University of Johannesburg,"#366
+Tie",South Africa,USNEWS
+University of Bari,#368,Italy,USNEWS
+Chalmers University of Technology,"#369
+Tie",Sweden,USNEWS
+University of Iceland,"#369
+Tie",Iceland,USNEWS
+University of Ljubljana,"#369
+Tie",Slovenia,USNEWS
+University of Missouri,"#369
+Tie",United States,USNEWS
+University of Twente,"#369
+Tie",Netherlands,USNEWS
+Nankai University,"#374
+Tie",China,USNEWS
+University of Buenos Aires,"#374
+Tie",Argentina,USNEWS
+University of Eastern Finland,"#374
+Tie",Finland,USNEWS
+University of Massachusetts--Worcester,"#374
+Tie",United States,USNEWS
+University of Auvergne,#378,France,USNEWS
+Queen's University,"#379
+Tie",Canada,USNEWS
+Universite de Lorraine,"#379
+Tie",France,USNEWS
+University of Hawaii--Manoa,"#379
+Tie",United States,USNEWS
+National Autonomous University of Mexico,#382,Mexico,USNEWS
+Hannover Medical School,"#383
+Tie",Germany,USNEWS
+Louisiana State University--Baton Rouge,"#383
+Tie",United States,USNEWS
+University of Chile,"#385
+Tie",Chile,USNEWS
+University of Giessen,"#385
+Tie",Germany,USNEWS
+University of Houston,"#385
+Tie",United States,USNEWS
+Central South University,"#388
+Tie",China,USNEWS
+Kansas State University,"#388
+Tie",United States,USNEWS
+Medical University of Innsbruck,"#388
+Tie",Austria,USNEWS
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),"#388
+Tie",Russia,USNEWS
+Soochow University,"#388
+Tie",China,USNEWS
+University of Manitoba,"#388
+Tie",Canada,USNEWS
+Thomas Jefferson University,#394,United States,USNEWS
+China University of Geosciences,"#395
+Tie",China,USNEWS
+University of South Australia,"#395
+Tie",Australia,USNEWS
+University of Tsukuba,"#395
+Tie",Japan,USNEWS
+Medical University of Graz,"#398
+Tie",Austria,USNEWS
+Middle East Technical University,"#398
+Tie",Turkey,USNEWS
+University of Tampere,"#398
+Tie",Finland,USNEWS
+Wake Forest University,#401,United States,USNEWS
+Moscow Institute of Physics and Technology,"#402
+Tie",Russia,USNEWS
+Tianjin University,"#402
+Tie",China,USNEWS
+Virginia Commonwealth University,"#402
+Tie",United States,USNEWS
+Drexel University,"#405
+Tie",United States,USNEWS
+University of Oklahoma,"#405
+Tie",United States,USNEWS
+University of Tehran,"#405
+Tie",Iran,USNEWS
+La Trobe University,"#408
+Tie",Australia,USNEWS
+Universite Paris-Est (ComUE),"#408
+Tie",France,USNEWS
+University of Bath,"#408
+Tie",United Kingdom,USNEWS
+University of Nova de Lisboa,"#408
+Tie",Portugal,USNEWS
+Hokkaido University,"#412
+Tie",Japan,USNEWS
+National Technical University of Athens,"#412
+Tie",Greece,USNEWS
+University of Coimbra,"#412
+Tie",Portugal,USNEWS
+University of the Basque Country,#415,Spain,USNEWS
+York University,#416,Canada,USNEWS
+Florida International University,"#417
+Tie",United States,USNEWS
+Medical University of South Carolina,"#417
+Tie",United States,USNEWS
+University of Alabama,"#419
+Tie",United States,USNEWS
+University of Belgrade,"#419
+Tie",Serbia,USNEWS
+University of Oulu,"#419
+Tie",Finland,USNEWS
+University of Salerno,"#419
+Tie",Italy,USNEWS
+Dortmund University of Technology,#423,Germany,USNEWS
+Istanbul Technical University,"#424
+Tie",Turkey,USNEWS
+Novosibirsk State University,"#424
+Tie",Russia,USNEWS
+St George's University of London,"#424
+Tie",United Kingdom,USNEWS
+Flinders University,"#427
+Tie",Australia,USNEWS
+Quaid I Azam University,"#427
+Tie",Pakistan,USNEWS
+Shandong University,"#427
+Tie",China,USNEWS
+Waseda University,"#427
+Tie",Japan,USNEWS
+University of the Andes Colombia,#431,Colombia,USNEWS
+University of Minho,#432,Portugal,USNEWS
+University of Tromsø,#433,Norway,USNEWS
+Auckland University of Technology,"#434
+Tie",New Zealand,USNEWS
+Cairo University,"#434
+Tie",Egypt,USNEWS
+Eotvos Lorand University,"#434
+Tie",Hungary,USNEWS
+George Mason University,"#434
+Tie",United States,USNEWS
+Hanyang University,"#434
+Tie",South Korea,USNEWS
+Universidad Tecnica Federico Santa Maria,"#434
+Tie",Chile,USNEWS
+University of Strathclyde,"#434
+Tie",United Kingdom,USNEWS
+University of Pretoria,"#441
+Tie",South Africa,USNEWS
+University of Surrey,"#441
+Tie",United Kingdom,USNEWS
+Rush University,#443,United States,USNEWS
+Brunel University,"#444
+Tie",United Kingdom,USNEWS
+Dalian University of Technology,"#444
+Tie",China,USNEWS
+London Business School,"#444
+Tie",United Kingdom,USNEWS
+Université de Rennes 1,"#444
+Tie",France,USNEWS
+University of Navarra,"#444
+Tie",Spain,USNEWS
+University of Wisconsin--Milwaukee,"#444
+Tie",United States,USNEWS
+Texas Tech University,#450,United States,USNEWS
+Singapore University of Technology & Design,"#451
+Tie",Singapore,USNEWS
+University College Cork,"#451
+Tie",Ireland,USNEWS
+University of Catania,"#451
+Tie",Italy,USNEWS
+East China Normal University,"#454
+Tie",China,USNEWS
+Florida Institute of Technology,"#454
+Tie",United States,USNEWS
+Islamic Azad University,"#454
+Tie",Iran,USNEWS
+University of Cyprus,"#454
+Tie",Cyprus,USNEWS
+University of Santiago of Compostela,"#454
+Tie",Spain,USNEWS
+Federal University of Rio Grande do Sul,"#459
+Tie",Brazil,USNEWS
+Philipps University of Marburg,"#459
+Tie",Germany,USNEWS
+Politecnico di Bari,"#459
+Tie",Italy,USNEWS
+UNESP - Universidade Estadual Paulista,"#459
+Tie",Brazil,USNEWS
+University of Regensburg,"#459
+Tie",Germany,USNEWS
+University of Texas--Arlington,"#459
+Tie",United States,USNEWS
+Czech Technical University in Prague,"#465
+Tie",Czech Republic,USNEWS
+Federal University of Minas Gerais,"#465
+Tie",Brazil,USNEWS
+Roma Tre University,"#465
+Tie",Italy,USNEWS
+University of Wuppertal,#468,Germany,USNEWS
+Sichuan University,"#469
+Tie",China,USNEWS
+Tulane University,"#469
+Tie",United States,USNEWS
+University of Guelph,"#469
+Tie",Canada,USNEWS
+Bielefeld University,"#472
+Tie",Germany,USNEWS
+California State University--Fresno,"#472
+Tie",United States,USNEWS
+China Agricultural University,"#472
+Tie",China,USNEWS
+Tilburg University,"#472
+Tie",Netherlands,USNEWS
+University of Fribourg,"#472
+Tie",Switzerland,USNEWS
+Central China Normal University,"#477
+Tie",China,USNEWS
+Georgia State University,"#477
+Tie",United States,USNEWS
+Southern Methodist University,"#477
+Tie",United States,USNEWS
+University of Central Florida,"#477
+Tie",United States,USNEWS
+University of Potsdam,"#477
+Tie",Germany,USNEWS
+University of Vermont,"#477
+Tie",United States,USNEWS
+Carleton University,"#483
+Tie",Canada,USNEWS
+Swansea University,"#483
+Tie",United Kingdom,USNEWS
+Beijing Institute of Technology,"#485
+Tie",China,USNEWS
+Saint Petersburg State Polytechnic University,"#485
+Tie",Russia,USNEWS
+Versailles Saint-Quentin-en-Yvelines University (UVSQ),"#485
+Tie",France,USNEWS
+Victoria University,"#485
+Tie",Australia,USNEWS
+Polytechnic University of Turin,"#489
+Tie",Italy,USNEWS
+University of Jyväskylä,"#489
+Tie",Finland,USNEWS
+University of Mons,"#489
+Tie",Belgium,USNEWS
+University of Udine,"#489
+Tie",Italy,USNEWS
+Liverpool John Moores University (LJMU),"#493
+Tie",United Kingdom,USNEWS
+Oklahoma State University,"#493
+Tie",United States,USNEWS
+AgroParisTech,"#495
+Tie",France,USNEWS
+University of Konstanz,"#495
+Tie",Germany,USNEWS
+College of William and Mary,"#497
+Tie",United States,USNEWS
+Darmstadt University of Technology,"#497
+Tie",Germany,USNEWS
+Jilin University,"#497
+Tie",China,USNEWS
+Polytechnic University of Catalonia,"#497
+Tie",Spain,USNEWS
+University of Split,"#497
+Tie",Croatia,USNEWS
+Catholic University of Sacred Heart,#502,Italy,USNEWS
+Colorado School of Mines,"#503
+Tie",United States,USNEWS
+Parthenope University Naples,"#503
+Tie",Italy,USNEWS
+University of Oviedo,"#503
+Tie",Spain,USNEWS
+University of Texas--San Antonio,"#503
+Tie",United States,USNEWS
+University of Electronic Science and Technology of China,#507,China,USNEWS
+Polytechnic University of Valencia,#508,Spain,USNEWS
+Tomsk State University,"#509
+Tie",Russia,USNEWS
+Universitat Siegen,"#509
+Tie",Germany,USNEWS
+University of Rovira i Virgili,"#509
+Tie",Spain,USNEWS
+University of Stuttgart,"#509
+Tie",Germany,USNEWS
+Indian Institute of Technology Bombay,"#513
+Tie",India,USNEWS
+University of Calabria,"#513
+Tie",Italy,USNEWS
+Victoria University of Wellington,#515,New Zealand,USNEWS
+Keio University,"#516
+Tie",Japan,USNEWS
+Universiti Teknologi Malaysia,"#516
+Tie",Malaysia,USNEWS
+University of Plymouth,"#516
+Tie",United Kingdom,USNEWS
+Palacky University Olomouc,"#519
+Tie",Czech Republic,USNEWS
+Rensselaer Polytechnic Institute,"#519
+Tie",United States,USNEWS
+West University of Timisoara,"#519
+Tie",Romania,USNEWS
+Chulalongkorn University,"#522
+Tie",Thailand,USNEWS
+Mahidol University,"#522
+Tie",Thailand,USNEWS
+Massey University,"#522
+Tie",New Zealand,USNEWS
+Tokyo Metropolitan University,"#522
+Tie",Japan,USNEWS
+University of Ferrara,"#522
+Tie",Italy,USNEWS
+University of Seville,"#522
+Tie",Spain,USNEWS
+University of Massachusetts--Boston,"#528
+Tie",United States,USNEWS
+University of Verona,"#528
+Tie",Italy,USNEWS
+Indian Institute of Science,"#530
+Tie",India,USNEWS
+Panjab University,"#530
+Tie",India,USNEWS
+Hacettepe University,"#532
+Tie",Turkey,USNEWS
+Universidade Federal do ABC (UFABC),"#532
+Tie",Brazil,USNEWS
+University of Bremen,"#532
+Tie",Germany,USNEWS
+University of New Hampshire,"#532
+Tie",United States,USNEWS
+Aveiro University,"#536
+Tie",Portugal,USNEWS
+Boston College,"#536
+Tie",United States,USNEWS
+Wuhan University of Technology,"#536
+Tie",China,USNEWS
+Saint Petersburg State University,"#539
+Tie",Russia,USNEWS
+University of Hannover,"#539
+Tie",Germany,USNEWS
+American University of Beirut,"#541
+Tie",Lebanon,USNEWS
+Kobe University,"#541
+Tie",Japan,USNEWS
+University of Saskatchewan,"#541
+Tie",Canada,USNEWS
+University of Louisville,#544,United States,USNEWS
+Aga Khan University,"#545
+Tie",Pakistan,USNEWS
+University of Puerto Rico--Mayaguez,"#545
+Tie",United States,USNEWS
+Izmir Yuksek Teknoloji Enstitusu,"#547
+Tie",Turkey,USNEWS
+Medical College of Wisconsin,"#547
+Tie",United States,USNEWS
+Montana State University--Bozeman,"#547
+Tie",United States,USNEWS
+Saarland University,"#547
+Tie",Germany,USNEWS
+Universidad de Cantabria,"#547
+Tie",Spain,USNEWS
+University of Parma,"#547
+Tie",Italy,USNEWS
+University of Zaragoza,"#547
+Tie",Spain,USNEWS
+Ben-Gurion University of the Negev,"#553
+Tie",Israel,USNEWS
+Kyung Hee University,"#553
+Tie",South Korea,USNEWS
+Universite Bourgogne Franche-Comte (ComUE),"#553
+Tie",France,USNEWS
+University of Science & Technology Beijing,#556,China,USNEWS
+Kyungpook National University,"#557
+Tie",South Korea,USNEWS
+Loughborough University,"#557
+Tie",United Kingdom,USNEWS
+NUI Galway,"#557
+Tie",Ireland,USNEWS
+University of Casablanca Hassan 2,"#557
+Tie",Morocco,USNEWS
+University of Modena and Reggio Emilia,"#557
+Tie",Italy,USNEWS
+University of Portsmouth,"#557
+Tie",United Kingdom,USNEWS
+Comenius University in Bratislava,"#563
+Tie",Slovakia,USNEWS
+Heriot Watt University,"#563
+Tie",United Kingdom,USNEWS
+Shanghai University,"#563
+Tie",China,USNEWS
+University of Crete,"#563
+Tie",Greece,USNEWS
+Babes-Bolyai University,"#567
+Tie",Romania,USNEWS
+Chongqing University,"#567
+Tie",China,USNEWS
+University of Bodenkultur Wien,"#567
+Tie",Austria,USNEWS
+University of Ioannina,"#567
+Tie",Greece,USNEWS
+Bilkent University,"#571
+Tie",Turkey,USNEWS
+Lanzhou University,"#571
+Tie",China,USNEWS
+University of Palermo,#573,Italy,USNEWS
+National Research University - Higher School of Economics,#574,Russia,USNEWS
+University of Macau,"#575
+Tie",Macau,USNEWS
+University of Zagreb,"#575
+Tie",Croatia,USNEWS
+Masaryk University,"#577
+Tie",Czech Republic,USNEWS
+Okayama University,"#577
+Tie",Japan,USNEWS
+Universite de Bordeaux,"#577
+Tie",France,USNEWS
+University of Graz,"#577
+Tie",Austria,USNEWS
+Federal University of Santa Catarina,"#581
+Tie",Brazil,USNEWS
+Federal University of São Paulo,"#581
+Tie",Brazil,USNEWS
+Université du Québec à Montréal,"#581
+Tie",Canada,USNEWS
+Nanjing University of Information Science & Technology,"#584
+Tie",China,USNEWS
+Polytechnic University of Madrid,"#584
+Tie",Spain,USNEWS
+Universitat de les Illes Balears,"#584
+Tie",Spain,USNEWS
+Universiti Sains Malaysia,"#584
+Tie",Malaysia,USNEWS
+University of Kent,"#584
+Tie",United Kingdom,USNEWS
+Hong Kong Baptist University,"#589
+Tie",Hong Kong,USNEWS
+Northwestern Polytechnical University,"#589
+Tie",China,USNEWS
+Bocconi University,"#591
+Tie",Italy,USNEWS
+Hiroshima University,"#591
+Tie",Japan,USNEWS
+Sharif University of Technology,"#591
+Tie",Iran,USNEWS
+Vilnius University,"#591
+Tie",Lithuania,USNEWS
+East China University of Science and Technology,"#595
+Tie",China,USNEWS
+Isfahan University of Technology,"#595
+Tie",Iran,USNEWS
+National Central University,"#595
+Tie",Taiwan,USNEWS
+University of Seoul,"#595
+Tie",South Korea,USNEWS
+Beijing Jiaotong University,"#599
+Tie",China,USNEWS
+Beijing University of Chemical Technology,"#599
+Tie",China,USNEWS
+Edith Cowan University,"#599
+Tie",Australia,USNEWS
+Lappeenranta University of Technology,"#599
+Tie",Finland,USNEWS
+Rio de Janeiro State University,"#599
+Tie",Brazil,USNEWS
+San Diego State University,"#599
+Tie",United States,USNEWS
+China University of Petroleum,"#605
+Tie",China,USNEWS
+National Cheng Kung University,"#605
+Tie",Taiwan,USNEWS
+University of Texas Medical Branch--Galveston,"#605
+Tie",United States,USNEWS
+King Fahd University of Petroleum and Minerals (KFUPM),#608,Saudi Arabia,USNEWS
+Kent State University,"#609
+Tie",United States,USNEWS
+West Virginia University,"#609
+Tie",United States,USNEWS
+Makerere University,"#611
+Tie",Uganda,USNEWS
+Martin Luther University of Halle-Wittenberg,"#611
+Tie",Germany,USNEWS
+Universiti Putra Malaysia,"#611
+Tie",Malaysia,USNEWS
+University of Essex,"#611
+Tie",United Kingdom,USNEWS
+Warsaw University of Technology,"#611
+Tie",Poland,USNEWS
+University of Missouri--Kansas City,"#616
+Tie",United States,USNEWS
+University of Ulsan,"#616
+Tie",South Korea,USNEWS
+Addis Ababa University,"#618
+Tie",Ethiopia,USNEWS
+Bar-Ilan University,"#618
+Tie",Israel,USNEWS
+National University La Plata,"#618
+Tie",Argentina,USNEWS
+University of Basilicata,"#618
+Tie",Italy,USNEWS
+University of Bayreuth,"#618
+Tie",Germany,USNEWS
+University of Luxembourg,"#618
+Tie",Luxembourg,USNEWS
+Ankara University,"#624
+Tie",Turkey,USNEWS
+Australian Catholic University,"#624
+Tie",Australia,USNEWS
+Copenhagen Business School,"#624
+Tie",Denmark,USNEWS
+Nanjing University of Science & Technology,"#624
+Tie",China,USNEWS
+Renmin University of China,"#624
+Tie",China,USNEWS
+University of Rostock,"#624
+Tie",Germany,USNEWS
+Chonnam National University,"#630
+Tie",South Korea,USNEWS
+Norwegian University of Life Sciences,"#630
+Tie",Norway,USNEWS
+University Hohenheim,"#630
+Tie",Germany,USNEWS
+University of Salento,"#630
+Tie",Italy,USNEWS
+Visva Bharati University,"#630
+Tie",India,USNEWS
+AGH University of Science & Technology,"#635
+Tie",Poland,USNEWS
+University of Debrecen,"#635
+Tie",Hungary,USNEWS
+Murdoch University,#637,Australia,USNEWS
+Universiti Kebangsaan Malaysia (UKM),"#638
+Tie",Malaysia,USNEWS
+University of La Laguna,"#638
+Tie",Spain,USNEWS
+University of Lubeck,"#638
+Tie",Germany,USNEWS
+Pusan National University,"#641
+Tie",South Korea,USNEWS
+Rochester Institute of Technology,"#641
+Tie",United States,USNEWS
+University of Cagliari,"#641
+Tie",Italy,USNEWS
+University of North Texas,"#641
+Tie",United States,USNEWS
+Benemerita Universidad Autonoma de Puebla,"#645
+Tie",Mexico,USNEWS
+Centre-Val de Loire (ComUE),"#645
+Tie",France,USNEWS
+North West University - South Africa,"#645
+Tie",South Africa,USNEWS
+Pontificia Universidad Javeriana,"#645
+Tie",Colombia,USNEWS
+University of Canberra,"#645
+Tie",Australia,USNEWS
+University of Qatar,"#645
+Tie",Qatar,USNEWS
+Khalifa University of Science & Technology,"#651
+Tie",United Arab Emirates,USNEWS
+St. Louis University,"#651
+Tie",United States,USNEWS
+University of Salamanca,"#651
+Tie",Spain,USNEWS
+Indian Institute of Technology Delhi,"#654
+Tie",India,USNEWS
+Indian Institute of Technology Madras,"#654
+Tie",India,USNEWS
+Open University,"#654
+Tie",United Kingdom,USNEWS
+Memorial University of Newfoundland,"#657
+Tie",Canada,USNEWS
+Universitat de Girona,"#657
+Tie",Spain,USNEWS
+University of Sofia,"#657
+Tie",Bulgaria,USNEWS
+Graz University of Technology,"#660
+Tie",Austria,USNEWS
+University of Maryland--Baltimore County,"#660
+Tie",United States,USNEWS
+CUNY--City College,#662,United States,USNEWS
+City University London,"#663
+Tie",United Kingdom,USNEWS
+Mansoura University,"#663
+Tie",Egypt,USNEWS
+Nanjing Agricultural University,"#663
+Tie",China,USNEWS
+University of Brescia,"#663
+Tie",Italy,USNEWS
+Ain Shams University,"#667
+Tie",Egypt,USNEWS
+University of California--Merced,"#667
+Tie",United States,USNEWS
+Clemson University,"#669
+Tie",United States,USNEWS
+Northumbria University,"#669
+Tie",United Kingdom,USNEWS
+Concordia University,"#671
+Tie",Canada,USNEWS
+Northern Illinois University,"#671
+Tie",United States,USNEWS
+Ohio University,"#671
+Tie",United States,USNEWS
+Universite Cote d'Azur (ComUE),"#671
+Tie",France,USNEWS
+University of Arkansas,"#671
+Tie",United States,USNEWS
+Tehran University of Medical Sciences,"#676
+Tie",Iran,USNEWS
+University of Alaska--Fairbanks,"#676
+Tie",United States,USNEWS
+Amirkabir University of Technology (AUT),"#678
+Tie",Iran,USNEWS
+Auburn University,"#678
+Tie",United States,USNEWS
+Babol Noshirvani University of Technology,"#678
+Tie",Iran,USNEWS
+Utah State University,"#678
+Tie",United States,USNEWS
+Illinois Institute of Technology,"#682
+Tie",United States,USNEWS
+Sejong University,"#682
+Tie",South Korea,USNEWS
+Semmelweis University,"#682
+Tie",Hungary,USNEWS
+Shenzhen University,"#685
+Tie",China,USNEWS
+Southern University of Science & Technology,"#685
+Tie",China,USNEWS
+University of Mannheim,"#685
+Tie",Germany,USNEWS
+Jordan University of Science & Technology,"#688
+Tie",Jordan,USNEWS
+Northern Arizona University,"#688
+Tie",United States,USNEWS
+Orebro University,"#688
+Tie",Sweden,USNEWS
+University of Szeged,"#688
+Tie",Hungary,USNEWS
+American University,"#692
+Tie",United States,USNEWS
+Braunschweig University of Technology,"#692
+Tie",Germany,USNEWS
+Brigham Young University--Provo,"#692
+Tie",United States,USNEWS
+Ewha Womans University,"#692
+Tie",South Korea,USNEWS
+University of Brighton,"#696
+Tie",United Kingdom,USNEWS
+University of Wyoming,"#696
+Tie",United States,USNEWS
+Fuzhou University,"#698
+Tie",China,USNEWS
+INSEAD Business School,"#698
+Tie",France,USNEWS
+Nanjing University of Aeronautics and Astronautics,"#698
+Tie",China,USNEWS
+Universita della Campania Vanvitelli,"#698
+Tie",Italy,USNEWS
+Aston University,"#702
+Tie",United Kingdom,USNEWS
+Chonbuk National University,"#702
+Tie",South Korea,USNEWS
+Huazhong Agricultural University,"#702
+Tie",China,USNEWS
+University of Urbino,"#702
+Tie",Italy,USNEWS
+Istanbul University,"#706
+Tie",Turkey,USNEWS
+Kwame Nkrumah University Science & Technology,"#706
+Tie",Ghana,USNEWS
+"Rutgers, The State University of New Jersey--Newark","#706
+Tie",United States,USNEWS
+Universidad Nacional de Colombia,"#706
+Tie",Colombia,USNEWS
+Charles Sturt University,"#710
+Tie",Australia,USNEWS
+Marche Polytechnic University,"#710
+Tie",Italy,USNEWS
+New Mexico State University,"#710
+Tie",United States,USNEWS
+University of Brasilia,"#710
+Tie",Brazil,USNEWS
+University of the Republic - Uruguay,"#710
+Tie",Uruguay,USNEWS
+Jiangnan University,"#715
+Tie",China,USNEWS
+Mohammed V University,"#715
+Tie",Morocco,USNEWS
+University of Camerino,"#715
+Tie",Italy,USNEWS
+University of Haifa,"#715
+Tie",Israel,USNEWS
+Montpellier SupAgro,"#719
+Tie",France,USNEWS
+National Chiao Tung University,"#719
+Tie",Taiwan,USNEWS
+Universite de Brest,"#719
+Tie",France,USNEWS
+Cranfield University,"#722
+Tie",United Kingdom,USNEWS
+Indian Institute of Technology Kharagpur,"#722
+Tie",India,USNEWS
+Shinshu University,"#722
+Tie",Japan,USNEWS
+University of Sherbrooke,"#722
+Tie",Canada,USNEWS
+University of the Western Cape,"#722
+Tie",South Africa,USNEWS
+University of Denver,"#727
+Tie",United States,USNEWS
+University of Waikato,"#727
+Tie",New Zealand,USNEWS
+Bangor University,"#729
+Tie",United Kingdom,USNEWS
+CentraleSupelec,"#729
+Tie",France,USNEWS
+University of New England,"#729
+Tie",Australia,USNEWS
+Liverpool School of Tropical Medicine,#732,United Kingdom,USNEWS
+Aberystwyth University,"#733
+Tie",United Kingdom,USNEWS
+Brandenburg University of Technology Cottbus,"#733
+Tie",Germany,USNEWS
+University of Ibadan,"#733
+Tie",Nigeria,USNEWS
+University of Montana,#736,United States,USNEWS
+Chiba University,#737,Japan,USNEWS
+Universidad Carlos III de Madrid,#738,Spain,USNEWS
+Indian Institute of Science Education & Research (IISER) - Pune,"#739
+Tie",India,USNEWS
+Loyola University Chicago,"#739
+Tie",United States,USNEWS
+Nanjing University of Technology,"#739
+Tie",China,USNEWS
+Tokyo Medical and Dental University,"#739
+Tie",Japan,USNEWS
+Carl von Ossietzky Universitat Oldenburg,"#743
+Tie",Germany,USNEWS
+China University of Mining,"#743
+Tie",China,USNEWS
+Michigan Technological University,"#745
+Tie",United States,USNEWS
+University of Nevada--Las Vegas,"#745
+Tie",United States,USNEWS
+Indian Institute of Technology (IIT) - Roorkee,"#747
+Tie",India,USNEWS
+Koc University - Turkey,"#747
+Tie",Turkey,USNEWS
+Lulea University of Technology,"#747
+Tie",Sweden,USNEWS
+Birkbeck University London,"#750
+Tie",United Kingdom,USNEWS
+University of Marrakech Cadi Ayyad,"#750
+Tie",Morocco,USNEWS
+Indian Institute of Technology Kanpur,"#752
+Tie",India,USNEWS
+ITMO University,"#752
+Tie",Russia,USNEWS
+Southwest Jiaotong University,"#752
+Tie",China,USNEWS
+Gwangju Institute of Science and Technology,"#755
+Tie",South Korea,USNEWS
+National Taiwan University of Science and Technology,"#755
+Tie",Taiwan,USNEWS
+Northeastern University - China,"#755
+Tie",China,USNEWS
+Scuola Superiore Sant'Anna,"#755
+Tie",Italy,USNEWS
+Augusta University,"#759
+Tie",United States,USNEWS
+California State University--Fullerton,"#759
+Tie",United States,USNEWS
+National Institute for Applied Sciences - Lyon,"#759
+Tie",France,USNEWS
+Old Dominion University,"#759
+Tie",United States,USNEWS
+Beijing University of Technology,"#763
+Tie",China,USNEWS
+Ernst Moritz Arndt Universitat Greifswald,"#763
+Tie",Germany,USNEWS
+Polytechnic University of Bucharest,"#763
+Tie",Romania,USNEWS
+University of Delhi,"#763
+Tie",India,USNEWS
+University of Nevada--Reno,"#763
+Tie",United States,USNEWS
+University of Patras,"#763
+Tie",Greece,USNEWS
+Indian Institute of Science Education & Research (IISER) - Kolkata,"#769
+Tie",India,USNEWS
+Normandie Universite,"#769
+Tie",France,USNEWS
+Otto von Guericke University,"#769
+Tie",Germany,USNEWS
+Universite Confederale Leonard de Vinci,"#769
+Tie",France,USNEWS
+University of Idaho,"#769
+Tie",United States,USNEWS
+Howard University,"#774
+Tie",United States,USNEWS
+Universidad Autonoma de San Luis Potosi,"#774
+Tie",Mexico,USNEWS
+University of Eastern Piedmont Amedeo Avogadro,"#774
+Tie",Italy,USNEWS
+University of Rhode Island,"#774
+Tie",United States,USNEWS
+Alexandria University,"#778
+Tie",Egypt,USNEWS
+Universitat Jaume I,"#778
+Tie",Spain,USNEWS
+heSam Universite,"#780
+Tie",France,USNEWS
+Johannes Kepler University of Linz,"#780
+Tie",Austria,USNEWS
+University of Vigo,"#780
+Tie",Spain,USNEWS
+Kazan Federal University,"#783
+Tie",Russia,USNEWS
+Universidade Federal de Juiz de Fora,"#783
+Tie",Brazil,USNEWS
+Universitat Ramon Llull,"#783
+Tie",Spain,USNEWS
+Aligarh Muslim University,"#786
+Tie",India,USNEWS
+Hefei University of Technology,"#786
+Tie",China,USNEWS
+Yildiz Teknik University,"#786
+Tie",Turkey,USNEWS
+Hasselt University,"#789
+Tie",Belgium,USNEWS
+Missouri University of Science & Technology,"#789
+Tie",United States,USNEWS
+University of Insubria,"#789
+Tie",Italy,USNEWS
+University of Messina,"#789
+Tie",Italy,USNEWS
+Yeungnam University,"#789
+Tie",South Korea,USNEWS
+Ocean University of China,"#794
+Tie",China,USNEWS
+Salzburg University,"#794
+Tie",Austria,USNEWS
+University of Concepción,"#794
+Tie",Chile,USNEWS
+Zhengzhou University,"#794
+Tie",China,USNEWS
+Xidian University,#798,China,USNEWS
+Adam Mickiewicz University,"#799
+Tie",Poland,USNEWS
+Lehigh University,"#799
+Tie",United States,USNEWS
+University of Hull,"#799
+Tie",United Kingdom,USNEWS
+University of Texas--El Paso,"#799
+Tie",United States,USNEWS
+New Jersey Institute of Technology,"#803
+Tie",United States,USNEWS
+New York Medical College,"#803
+Tie",United States,USNEWS
+Royal College of Surgeons - Ireland,"#803
+Tie",Ireland,USNEWS
+United Arab Emirates University,"#803
+Tie",United Arab Emirates,USNEWS
+University of Murcia,"#803
+Tie",Spain,USNEWS
+Binghamton University--SUNY,"#808
+Tie",United States,USNEWS
+Donghua University,"#808
+Tie",China,USNEWS
+All India Institute of Medical Sciences,"#810
+Tie",India,USNEWS
+Federal University of Paraná,"#810
+Tie",Brazil,USNEWS
+Nanjing Medical University,"#810
+Tie",China,USNEWS
+Tarbiat Modares University,"#810
+Tie",Iran,USNEWS
+Universidade Federal de Pelotas,"#810
+Tie",Brazil,USNEWS
+Cukurova University,"#815
+Tie",Turkey,USNEWS
+University of North Carolina--Charlotte,"#815
+Tie",United States,USNEWS
+Maynooth University,"#817
+Tie",Ireland,USNEWS
+Universite de Haute-Alsace (UHA),"#817
+Tie",France,USNEWS
+China Medical University Taiwan,"#819
+Tie",Taiwan,USNEWS
+Mississippi State University,"#819
+Tie",United States,USNEWS
+Nanjing Normal University,"#819
+Tie",China,USNEWS
+"Northwest University, Xi'an","#819
+Tie",China,USNEWS
+Universidade Federal de Sao Joao del-Rei,"#819
+Tie",Brazil,USNEWS
+University of Akron,"#819
+Tie",United States,USNEWS
+University of Alabama--Huntsville,"#819
+Tie",United States,USNEWS
+Federal University of Sao Carlos,#826,Brazil,USNEWS
+Hohai University,"#827
+Tie",China,USNEWS
+Konkuk University,"#827
+Tie",South Korea,USNEWS
+Mersin University,"#827
+Tie",Turkey,USNEWS
+National Polytechnic Institute,"#827
+Tie",Mexico,USNEWS
+National Sun Yat-Sen University,"#827
+Tie",Taiwan,USNEWS
+University of Maribor,"#827
+Tie",Slovenia,USNEWS
+Federal University of Pernambuco,"#833
+Tie",Brazil,USNEWS
+National Yang-Ming University,"#833
+Tie",Taiwan,USNEWS
+ShanghaiTech University,"#833
+Tie",China,USNEWS
+University of Wrocław,"#833
+Tie",Poland,USNEWS
+Beijing University of Posts,"#837
+Tie",China,USNEWS
+Dublin City University,"#837
+Tie",Ireland,USNEWS
+Tuscia University,"#837
+Tie",Italy,USNEWS
+University of Neuchatel,"#837
+Tie",Switzerland,USNEWS
+Charles Darwin University,"#841
+Tie",Australia,USNEWS
+Creighton University,"#841
+Tie",United States,USNEWS
+Northwest A&F University - China,"#841
+Tie",China,USNEWS
+Universidade Federal do Ceara,"#841
+Tie",Brazil,USNEWS
+University of Stirling,"#841
+Tie",United Kingdom,USNEWS
+University of Tabriz,"#841
+Tie",Iran,USNEWS
+California Polytechnic State University--San Luis Obispo,"#847
+Tie",United States,USNEWS
+Harbin Engineering University,"#847
+Tie",China,USNEWS
+Texas A&M Health Science Center,"#847
+Tie",United States,USNEWS
+Banaras Hindu University,"#850
+Tie",India,USNEWS
+Sabanci University,"#850
+Tie",Turkey,USNEWS
+Shiraz University,"#850
+Tie",Iran,USNEWS
+Universidad Costa Rica,"#850
+Tie",Costa Rica,USNEWS
+University of Texas--Rio Grande Valley,"#850
+Tie",United States,USNEWS
+Tecnologico de Monterrey,"#855
+Tie",Mexico,USNEWS
+Zhejiang University of Technology,"#855
+Tie",China,USNEWS
+Universidad de Antioquia,"#857
+Tie",Colombia,USNEWS
+Universidad de Cordoba,"#857
+Tie",Spain,USNEWS
+Universidad de Malaga,"#857
+Tie",Spain,USNEWS
+Bohai University,"#860
+Tie",China,USNEWS
+University of Limerick,"#860
+Tie",Ireland,USNEWS
+University of Sassari,"#860
+Tie",Italy,USNEWS
+University of Ulster,"#860
+Tie",United Kingdom,USNEWS
+Gaziantep University,"#864
+Tie",Turkey,USNEWS
+Keele University,"#864
+Tie",United Kingdom,USNEWS
+Taipei Medical University,"#864
+Tie",Taiwan,USNEWS
+Mashhad University Medical Science,"#867
+Tie",Iran,USNEWS
+University of Louisiana--Lafayette,"#867
+Tie",United States,USNEWS
+University of Nairobi,"#867
+Tie",Kenya,USNEWS
+Iran University Science & Technology,"#870
+Tie",Iran,USNEWS
+University of Southern Queensland,"#870
+Tie",Australia,USNEWS
+Universitat Kassel,"#872
+Tie",Germany,USNEWS
+University of Bucharest,"#872
+Tie",Romania,USNEWS
+University of London Royal Veterinary College,"#872
+Tie",United Kingdom,USNEWS
+Indian Institute of Technology (IIT) - Indore,"#875
+Tie",India,USNEWS
+Marmara University,"#875
+Tie",Turkey,USNEWS
+National University of Cordoba,"#875
+Tie",Argentina,USNEWS
+University of Veterinary Medicine Vienna,"#875
+Tie",Austria,USNEWS
+European University Institute,"#879
+Tie",Italy,USNEWS
+Inha University,"#879
+Tie",South Korea,USNEWS
+South China Agricultural University,"#879
+Tie",China,USNEWS
+Tokyo University of Science,"#879
+Tie",Japan,USNEWS
+Universidad de Alcala,"#879
+Tie",Spain,USNEWS
+Universite de Tunis-El-Manar,"#879
+Tie",Tunisia,USNEWS
+Assiut University,"#885
+Tie",Egypt,USNEWS
+Kangwon National University,"#885
+Tie",South Korea,USNEWS
+Portland State University,"#885
+Tie",United States,USNEWS
+Southwest University - China,"#885
+Tie",China,USNEWS
+Ferdowsi University Mashhad,"#889
+Tie",Iran,USNEWS
+International Islamic University Malaysia,"#889
+Tie",Malaysia,USNEWS
+Tomsk Polytechnic University,"#889
+Tie",Russia,USNEWS
+Universidade Federal da Bahia,"#889
+Tie",Brazil,USNEWS
+Chiang Mai University,"#893
+Tie",Thailand,USNEWS
+Chung Ang University,"#893
+Tie",South Korea,USNEWS
+CUNY--Hunter College,"#893
+Tie",United States,USNEWS
+North China Electric Power University,"#893
+Tie",China,USNEWS
+Rhodes University,"#893
+Tie",South Africa,USNEWS
+Graduate University for Advanced Studies - Japan,"#898
+Tie",Japan,USNEWS
+Niigata University,"#898
+Tie",Japan,USNEWS
+Southern Cross University,"#898
+Tie",Australia,USNEWS
+University of Kaiserslautern,"#898
+Tie",Germany,USNEWS
+Universidade Federal Fluminense,"#902
+Tie",Brazil,USNEWS
+University of Paderborn,"#902
+Tie",Germany,USNEWS
+Gyeongsang National University,"#904
+Tie",South Korea,USNEWS
+Hong Kong Institute of Education,"#904
+Tie",Hong Kong,USNEWS
+Nanchang University,"#904
+Tie",China,USNEWS
+Ryerson University,"#904
+Tie",Canada,USNEWS
+Sultan Qaboos University,"#904
+Tie",Oman,USNEWS
+University of Oklahoma Health Sciences Center,"#904
+Tie",United States,USNEWS
+University of South Bohemia Ceske Budejovice,"#904
+Tie",Czech Republic,USNEWS
+Fujian Agriculture,"#911
+Tie",China,USNEWS
+National University of Defence Technology - China,"#911
+Tie",China,USNEWS
+Uniformed Services University of the Health Sciences,"#911
+Tie",United States,USNEWS
+Chang Gung University,"#914
+Tie",Taiwan,USNEWS
+Ege University,"#914
+Tie",Turkey,USNEWS
+Jinan University,"#914
+Tie",China,USNEWS
+Ritsumeikan University,"#914
+Tie",Japan,USNEWS
+Universidade Federal do Rio Grande do Norte,"#914
+Tie",Brazil,USNEWS
+University of Castilla-La Mancha,"#914
+Tie",Spain,USNEWS
+University of Arkansas Medical Sciences,#920,United States,USNEWS
+Brno University of Technology,"#921
+Tie",Czech Republic,USNEWS
+Southern Illinois University--Carbondale,"#921
+Tie",United States,USNEWS
+University of Ghana,"#921
+Tie",Ghana,USNEWS
+University of Toledo,#924,United States,USNEWS
+Shandong University of Science & Technology,#925,China,USNEWS
+Indian Institute of Technology (IIT) - Guwahati,"#926
+Tie",India,USNEWS
+Wroclaw Medical University,"#926
+Tie",Poland,USNEWS
+Guangzhou University,"#928
+Tie",China,USNEWS
+Nova Southeastern University,"#928
+Tie",United States,USNEWS
+Suez Canal University,"#928
+Tie",Egypt,USNEWS
+Anglia Ruskin University,"#931
+Tie",United Kingdom,USNEWS
+Manchester Metropolitan University,"#931
+Tie",United Kingdom,USNEWS
+Middlesex University,"#931
+Tie",United Kingdom,USNEWS
+Nagasaki University,"#931
+Tie",Japan,USNEWS
+Northeast Normal University - China,"#931
+Tie",China,USNEWS
+Central Queensland University,"#936
+Tie",Australia,USNEWS
+Jadavpur University,"#936
+Tie",India,USNEWS
+Beijing Forestry University,"#938
+Tie",China,USNEWS
+Hofstra University,"#938
+Tie",United States,USNEWS
+University of New Brunswick,"#938
+Tie",Canada,USNEWS
+Bournemouth University,"#941
+Tie",United Kingdom,USNEWS
+Nanjing University of Posts & Telecommunications,"#941
+Tie",China,USNEWS
+Universita Ca Foscari Venezia,"#941
+Tie",Italy,USNEWS
+Budapest University of Technology & Economics,#944,Hungary,USNEWS
+Kumamoto University,"#945
+Tie",Japan,USNEWS
+National Taiwan Normal University,"#945
+Tie",Taiwan,USNEWS
+Qufu Normal University,"#945
+Tie",China,USNEWS
+Abo Akademi University,"#948
+Tie",Finland,USNEWS
+Kanazawa University,"#948
+Tie",Japan,USNEWS
+Universiti Teknologi MARA,"#948
+Tie",Malaysia,USNEWS
+Beni-Suef University,"#951
+Tie",Egypt,USNEWS
+Capital Medical University,"#951
+Tie",China,USNEWS
+Christian Medical College & Hospital (CMCH) Vellore,"#951
+Tie",India,USNEWS
+Fourth Military Medical University,"#951
+Tie",China,USNEWS
+Hamburg University of Technology,"#951
+Tie",Germany,USNEWS
+National University of Sciences & Technology - Pakistan,"#951
+Tie",Pakistan,USNEWS
+Universite de Sfax,"#951
+Tie",Tunisia,USNEWS
+University of South Africa,"#951
+Tie",South Africa,USNEWS
+Universitat de Lleida,"#959
+Tie",Spain,USNEWS
+Yokohama City University,"#959
+Tie",Japan,USNEWS
+Hangzhou Normal University,"#961
+Tie",China,USNEWS
+Wroclaw University of Technology,"#961
+Tie",Poland,USNEWS
+Athens Medical School,"#963
+Tie",Greece,USNEWS
+China Pharmaceutical University,"#963
+Tie",China,USNEWS
+Federal University of Vicosa,"#963
+Tie",Brazil,USNEWS
+Gazi University,"#963
+Tie",Turkey,USNEWS
+Universidad Austral de Chile,"#963
+Tie",Chile,USNEWS
+Ajou University,"#968
+Tie",South Korea,USNEWS
+Fordham University,"#968
+Tie",United States,USNEWS
+Polytechnic Institute of Porto,"#970
+Tie",Portugal,USNEWS
+University of the Free State,"#970
+Tie",South Africa,USNEWS
+San Francisco State University,"#972
+Tie",United States,USNEWS
+Universidad de Valladolid,"#972
+Tie",Spain,USNEWS
+University of Hertfordshire,"#972
+Tie",United Kingdom,USNEWS
+Zhejiang Normal University,"#972
+Tie",China,USNEWS
+Adiyaman University,"#976
+Tie",Turkey,USNEWS
+Oxford Brookes University,"#976
+Tie",United Kingdom,USNEWS
+Universidade do Algarve,"#976
+Tie",Portugal,USNEWS
+University of the Sunshine Coast,"#976
+Tie",Australia,USNEWS
+University of Yaounde I,"#976
+Tie",Cameroon,USNEWS
+North Dakota State University,"#981
+Tie",United States,USNEWS
+Qingdao University,"#981
+Tie",China,USNEWS
+Florida Atlantic University,#983,United States,USNEWS
+Loma Linda University,"#984
+Tie",United States,USNEWS
+Nicolaus Copernicus University,"#984
+Tie",Poland,USNEWS
+University of Central Lancashire,"#984
+Tie",United Kingdom,USNEWS
+Jacobs University,"#987
+Tie",Germany,USNEWS
+Kafkas University,"#987
+Tie",Turkey,USNEWS
+Miami University--Oxford,"#987
+Tie",United States,USNEWS
+Southern Medical University - China,"#987
+Tie",China,USNEWS
+University of Pavol Jozef Safarik Kosice,"#987
+Tie",Slovakia,USNEWS
+Chungnam National University,"#992
+Tie",South Korea,USNEWS
+University of North Dakota,"#992
+Tie",United States,USNEWS
+Xiangtan University,"#992
+Tie",China,USNEWS
+Medical University Gdansk,"#995
+Tie",Poland,USNEWS
+University of Malawi,"#995
+Tie",Malawi,USNEWS
+University of Picardie-Jules-Verne,"#995
+Tie",France,USNEWS
+Massachusetts Institute of Technology (MIT),,,
+,,,
+Stanford University,,,
+,,,
+Harvard University,,,
+,,,
+California Institute of Technology (Caltech),,,
+,,,
+University of Cambridge,,,
+,,,
+University of Oxford,,,
+,,,
+UCL,,,
+,,,
+Imperial College London,,,
+,,,
+University of Chicago,,,
+,,,
+ETH Zurich - Swiss Federal Institute of Technology,,,
+,,,
+"Nanyang Technological University, Singapore (NTU)",,,
+,,,
+EPFL - Ecole Polytechnique Federale de Lausanne,,,
+,,,
+Princeton University,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

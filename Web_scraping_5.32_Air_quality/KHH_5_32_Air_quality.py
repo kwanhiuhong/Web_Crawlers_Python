@@ -9,18 +9,17 @@ Created on Wed Apr 25 23:04:13 2018
 import pandas as pd
 from numpy import nan
 from selenium import webdriver
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import time
 
 df = pd.DataFrame(index=range(20000),
                   columns=['City', 'Date', 'AQI', 'Range', 
                            'Air quality level', 'PM2.5', 'PM10', 'SO2', 'CO', 'NO2','O3'])
 
-my_path = r"/Users/KHH/Desktop/ChromeDriver_for_web_scrapping/chromedriver"
+my_path = r"/Users/hiuhongkwan/Documents/Developer_Tools/Chrome_Driver/chromedriver"
 browser = webdriver.Chrome(executable_path=my_path)
-browser.maximize_window()
 
 url_form = "https://www.aqistudy.cn/historydata/monthdata.php?city={}" 
 
@@ -42,24 +41,17 @@ url = "https://www.aqistudy.cn/historydata"
 browser.get(url)
 
 #This part is to scrap the total cities for accessing respective cities' pages
-#after successfully scrapping, total cities would be around 383
+#after successfully scrapping, total cities would be around 384
 Cities_to_scrap_xpath = "//div[@class='all']/div[@class='bottom']/ul"
 for i in range(1,len(browser.find_elements_by_xpath(Cities_to_scrap_xpath))+1):
     Cities_in_alphabetic_order_xpath = "//div[@class='all']/div[@class='bottom']/ul["+str(i)+']'+'/div[2]/li'
     for count2 in range(1,len(browser.find_elements_by_xpath(Cities_in_alphabetic_order_xpath))+1):
-        Cities_in_alphabetic_order_xpath = "//div[@class='all']/div[@class='bottom']/ul["+str(i)+']'+'/div[2]/li['+str(count2)+']'+'/a'
-        Cities_to_scrap.append(WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.XPATH, Cities_in_alphabetic_order_xpath))).text)
+        Cities_xpath = Cities_in_alphabetic_order_xpath + '[' + str(count2)+']' + '/a'
+        Cities_to_scrap.append(browser.find_elements_by_xpath(Cities_xpath)[0].text)
     
-#This part scraps individual cities air quality information
-
 for i, city in enumerate(Cities_to_scrap):
     url_for_specific_city = url_form.format(city)
     browser.get(url_for_specific_city)
-    #WebDriverWait(browser, timeout).until(EC.presence_of_element_located((By.CLASS_NAME, "table table-condensed table-bordered table-striped table-hover table-responsive")))
-    #!!!!since the page is rather dynamic, when you open the link, the table/html doesn't render
-    #immediately, so i set it to wait for 6 seconds for the whole page to load, if you think your
-    #internet is faster, you can set it to a shorter time.
-    time.sleep(7)
     air_quality_table_xpath = "//table[@class='table table-condensed table-bordered table-striped table-hover table-responsive']/tbody[1]/tr"
     #here finds how many rows are there for that particular city
     for air_quality_row in range(2, len(browser.find_elements_by_xpath(air_quality_table_xpath))+1):
